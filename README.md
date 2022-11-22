@@ -3,10 +3,10 @@
 This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website in general, though it was for a different class.
 
 ### Getting Started for Staffs
-1. How to add or edit the calendar schedule  
-Go to `/_modules` and add or edit the markdown file for the corresponding week. For a list of label styles, see [here](./_sass/custom/module.scss). 
-2. How to add or edit course staff profiles  
-Go to `_staffers` and add or edit the markdown file for the corresponding staff. You can also update their profile pictures in `resources/assets/staff_pics/`. Make sure the file names match. 
+1. How to edit the calendar schedule  
+Go to `_modules` and edit the markdown file for the corresponding week. For a list of label styles, see [here](./_sass/custom/module.scss). 
+2. How to edit course staff profiles  
+Go to `_staffers` and edit the markdown file for the corresponding staff. You can also update their profile pictures in `resources/assets/staff_pics/`. Make sure the file names match. 
 3. Syllabus and Resources can be edited in the correponding markdown files.   
 
 Note to staff: **Always** pull changes before making any edits. 
