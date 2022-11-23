@@ -1,5 +1,5 @@
 ---
-    title: 10. Literate Code, Coding Best Practices
+    title: 10. Literate Code and Good Coding Practices
     weekNumber: 10
     days:
       - date: 2023-03-20
@@ -11,5 +11,5 @@
       - date: 2023-03-24
         events:
           "**29**{: .label .label-gray } Week 10 Lecture 3":
-          "**Project 1**{: .label .label-proj } [Mariel Boatlift](https://datahub.berkeley.edu/)":         
+          "**Lab 7**{: .label .label-lab } [Justice 50](https://datahub.berkeley.edu/)":         
 ---

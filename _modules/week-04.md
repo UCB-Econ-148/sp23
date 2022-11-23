@@ -11,5 +11,5 @@
       - date: 2023-02-10
         events:
           "**11**{: .label .label-gray } Week 4 Lecture 3":
-          "**Lab 4**{: .label .label-lab } [Census data](https://datahub.berkeley.edu/)":         
+          "**Lab 3**{: .label .label-lab } [Exploratory Data Analysis](https://datahub.berkeley.edu/)":         
 ---

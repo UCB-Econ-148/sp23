@@ -1,5 +1,5 @@
 ---
-    title: 3. Wrangling Data - Cleaning
+    title: 3. Wrangling Data - Data Cleaning
     weekNumber: 3
     days:
       - date: 2023-01-30
@@ -11,5 +11,5 @@
       - date: 2023-02-03
         events:
           "**8**{: .label .label-gray } Week 3 Lecture 3":
-          "**Lab 3**{: .label .label-lab } [Data Cleaning](https://datahub.berkeley.edu/)":         
+          "**Lab 2**{: .label .label-lab } [Data Cleaning](https://datahub.berkeley.edu/)":         
 ---

@@ -11,5 +11,5 @@
       - date: 2023-03-17
         events:
           "**26**{: .label .label-gray } Week 9 Lecture 3":
-          "**Lab 9**{: .label .label-lab } [Survival Analysis](https://datahub.berkeley.edu/)":         
+          "**Project 1**{: .label .label-proj } [Mariel Boatlift](https://datahub.berkeley.edu/)":          
 ---

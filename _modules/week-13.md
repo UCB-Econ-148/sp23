@@ -11,5 +11,5 @@
       - date: 2023-04-14
         events:
           "**35**{: .label .label-gray } Week 13 Lecture 3":
-          "**Lab 11**{: .label .label-lab } [Data Management](https://datahub.berkeley.edu/)":         
+          "**Lab 9**{: .label .label-lab } [Time Series](https://datahub.berkeley.edu/)":         
 ---

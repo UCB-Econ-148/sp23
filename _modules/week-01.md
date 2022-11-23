@@ -4,11 +4,11 @@
     days:
       - date: 2023-01-18
         events:
-          "**1**{: .label .label-gray } Introduction, Course Overview":
-            "**1**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Rhk0PrNBb3piiPmTEFl14SHWbKA7-Ao_akGAImeSsgk/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec01/lec01.ipynb) • [code HTML](resources/assets/lecture/lec01/lec01.html)"
+          "**1**{: .label .label-gray } Introduction and Course Overview":
+            "**1**{: .label .label-ghost } [slides](https://docs.google.com/) • [code](https://datahub.berkeley.edu/)"
       - date: 2023-01-20
         events:
-          "**2**{: .label .label-gray } Overview of technology":
-            "**2**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/12iZZSmuX1Jy-iImUrefIZ2U9ztLED8sbCFb_HmQd86U/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec02/lec02.ipynb) • [code HTML](resources/assets/lecture/lec02/lec02.html) • [example QC](https://edstem.org/us/courses/3251/lessons/7748/slides/37544) • readings: [CIT 3.1](https://www.inferentialthinking.com/chapters/03/1/Expressions.html), [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)"
-          "**Lab 1**{: .label .label-lab } [Introduction to Notebooks / Pandas](https://datahub.berkeley.edu/)":
+          "**2**{: .label .label-gray } Overview of Technology":
+            "**2**{: .label .label-ghost } [slides](https://docs.google.com/) • [code](https://datahub.berkeley.edu/)"
+          "**Survey 1**{: .label .label-survey } [Pre-Semester Survey](https://google.com) **(due Jan. 27)**":
 ---

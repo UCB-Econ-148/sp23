@@ -1,5 +1,5 @@
 ---
-    title: 5. Sources of Data 2 - SQL
+    title: 5. Sources of Data II - SQL
     weekNumber: 5
     days:
       - date: 2023-02-13
@@ -11,5 +11,5 @@
       - date: 2023-02-17
         events:
           "**14**{: .label .label-gray } Week 5 Lecture 3":
-          "**Lab 5**{: .label .label-lab } [SQL](https://datahub.berkeley.edu/)":         
+          "**Project 1**{: .label .label-proj } [Regional GDP](https://datahub.berkeley.edu/)":        
 ---

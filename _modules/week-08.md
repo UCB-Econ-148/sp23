@@ -11,5 +11,5 @@
       - date: 2023-03-10
         events:
           "**23**{: .label .label-gray } Week 8 Lecture 3":
-          "**Lab 8**{: .label .label-lab } [Advanced visualizations](https://datahub.berkeley.edu/)":         
+          "**Lab 6**{: .label .label-lab } [Advanced Visualization](https://datahub.berkeley.edu/)":         
 ---
