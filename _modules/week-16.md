@@ -4,5 +4,5 @@
     days:
       - date: 2023-05-01
         events:
-          "No lectures this week. ":         
+          "No lectures this week":         
 ---
