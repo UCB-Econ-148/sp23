@@ -20,7 +20,7 @@ description: Course structure and policies.
 
 ## Communication 💬
 
-This semester, we'll be using [Ed](https://edstem.org/us/courses/3251/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email Suraj if you're not sure how to access it.
+This semester, we'll be using [Ed](https://edstem.org/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email the course staffs if you're not sure how to access it.
 
 **We will not be using bCourses at all in this class**; this website and Ed serve as replacements.
 
@@ -28,45 +28,39 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/3251/discussion
 
 ## Logistics 📆
 
-**Lecture:** Mondays, Wednesdays, and Fridays, 11AM-12PM
+**Lecture:** Mondays, Wednesdays, and Fridays, 1PM-2PM
 
-**Lab:** Fridays, 12PM-1PM
+**Discussion Section:** You may go to any discussion sections
 
 **Office Hours:** Throughout the week; see [Ed](https://edstem.org/us/courses/3251/discussion/201908)
 
-Lectures, labs, and office hours will be hosted on Zoom. See [this post on Ed](https://edstem.org/us/courses/3251/discussion/201908) for the link. (We won't make the Zoom link public, so that we don't get Zoom-bombed 💣.)
+Lectures, discussion sections, and office hours will be hosted in-person by default. We'll post updates in [this post on Ed](https://edstem.org/) and send out annoucements if there're any changes. 
 
 ---
 
 ## About 🧐
 
-From the course catalog: This course is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics (in particular, Foundations of Data Science, Data C8). This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.
+From the course catalog: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work.  Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization.  The course will cover many aspects of preparing data for econometric analysis.  Practices around literate code, open science tools, reproducibility, and data management will also be covered.  
 
-Data 94 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications.
+Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. **Note that Data 8 is a prerequisite to this class, but Data 100 or Econ 140/141 is not.**  
 
 This class serves a different purposes than several other classes that may sound similar. Specifically:
-- **Data 8**: Data 94 does not cover nearly as much statistics and inference as Data 8. Instead, it dives deeper into Python and its applications in data science. After taking this class, you will be well-equipped to take Data 8 and focus on the inference.
-- **CS 10**: While CS 10 is also an introductory computing class, it focuses less on Python and data science, and more on abstract ideas in computing. It is a fantastic alternative to Data 94.
-- **CS 61A and CS 88**: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. They are also substantially more fast-paced than this course.
+- **Data 8**: Econ 148 does not cover more statistics and inference than in Data 8. Instead, it dives deeper into Python and its applications in economics. After taking this class, you will be obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research.
+- **Data 100**: Econ 148 is an alternative to Data 100 with more focus on data science techniques relevant to economics. Students who have taken Data 100 are suggested NOT to take this class.  
+- **Data 88E**: Econ 148 is an "upgrade" to Data 88E. You will learn more data science skills with real-life datasets. We will also use "industry-standard" packages (the ones that are actually being used in research and workplaces).  
+- **CS 61A and CS 88**: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. 
+- **Econ 140/141**: Econ 140/141 focuses more on how to arrive at the right conclusion using statistical techniques (like various forms of regressions) given a cleaned dataset. Econ 148 focuses more on how to get this dataset, make it a cleaned dataset, and produce exploratory data analysis before diving into main regression. (This is not a trivial portion! Economists spend around 1/3 of their time on getting and cleaning data when doing empirical research!)
 
-If you have already taken any of these courses, Data 94 is not the right course for you. But if you haven't -- welcome! You're in the right place 😎. What also makes Data 94 different is its small size – Data 94 will have just 30 students in Spring 2021.
+If you have already taken the prerequisite Data 8, and interested in learning more about how to apply data science skills in economics -- welcome! You're in the right place 😎. 
 
 The rough topic breakdown is as follows:
 
-- Weeks 1-6: Python basics in the Jupyter notebook environment.
-- Weeks 7-10: Working with real-world tabular data using `datascience` (the library used in Data 8).
-- Weeks 11-13: Data visualization.
-- Weeks 14-15: Probability and simulation. Special topics, as time permits.
+- TBD
 
 Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we will link supplementary readings.
 
 Also, note that the course will emphasize the use of real-world data. Some possible datasets include
-- Data from media markets in Pennsylvania and data on Congress members’ ages
-- California housing prices data
-- COVID cases
-- Bay Area bike sharing usage data
-- Vehicle fuel efficiency data
-- Sports data
+- TBD
 
 You will leave the course being able to independently apply the skills you've learned to datasets of your own choosing.
 
@@ -112,25 +106,25 @@ While office hours are not mandatory, we highly recommend attending them regular
 
 Furthermore, you're encouraged to ask and answer questions about assignments and concepts on Ed.
 
-### Quizzes and Exams
+### Exams
 
-In lieu of a midterm, we will have three small quizzes held during lecture, each worth 5% of your grade (this way, one bad quiz will not significantly impact your grade). Each quiz will focus on the material that was not assessed on the previous quiz. The scheduling for these is on the course homepage; the tentative dates are
-- Quiz 1: Friday, February 12th [UPDATED]
-- Quiz 2: Friday, March 19th [UPDATED]
-- Quiz 3: Friday, April 16th [UPDATED]
+We will have a midterm that covers the first half of the course materials. The midterm is worth 15% of your total grade. 
+- Midterm [Time and Location TBD]
+- Final [Time and Location TBD]
 
-We will have a final exam during the campus-assigned slot: **Tuesday May 11th, 7-10PM.** Unlike the quizzes, the final exam will be cumulative.
+We will have a final exam during the campus-assigned slot: **TBD** The final exam will be cumulative.
 
-More relevant logistics for quizzes and exams will be announced on Ed.
+More relevant logistics for exams will be announced on Ed.
 
 ### A note on units
 
-The official Berkeley policy is that a 3 unit class should consist of an average of 9 hours of work per week including class time ([source](https://academic-senate.berkeley.edu/coci-handbook/2.3.1)). The breakdown in our class looks like this:
+The official Berkeley policy is that a 4 unit class should consist of an average of 12 hours of work per week including class time ([source](https://academic-senate.berkeley.edu/coci-handbook/2.3.1)). The breakdown in our class looks like this:
 - 3 hours of lecture
-- 1 hour of lab
-- 5 hours of homework
+- 1 hour of discussion section
+- 5 hours of lab/project (average)
+- 3 hours of extra time for you to review the lectures and explore materials independently
 
-In some weeks you will have to spend time studying for quizzes; in those weeks we will try to keep homework assignments short. We really want to make sure you don't exceed this 9 hour mark on average; if you are, please let us know.
+In some weeks you will have to spend time studying for exams; in those weeks we will try to keep assignments short. We really want to make sure you don't exceed this 12 hour mark on average; if you are, please let us know.
 
 ---
 
@@ -138,10 +132,10 @@ In some weeks you will have to spend time studying for quizzes; in those weeks w
 
 We will be using several websites this semester. Here's what they're all used for:
 
-- [Course Website](http://data94.org): where all content will be posted.
-- [Ed](https://edstem.org/us/courses/3251/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. Also where Quick Checks are hosted and submitted.
+- [Course Website](http://ucb-econ-148.github.io): where all content will be posted.
+- [Ed](https://edstem.org/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. 
 - [DataHub](http://datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.)
-- [Gradescope](https://www.gradescope.com/courses/166696): where all homeworks are submitted and all grades live. (Not bCourses! 🙅)
+- [Gradescope](https://www.gradescope.com/): where all homeworks are submitted and all grades live. (Not bCourses! 🙅)
 
 ---
 
@@ -153,23 +147,25 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Attendance | 5% | see below |
-| Quick Checks | 5% | no drops |
-| Weekly Surveys  | 5% | no drops |
-| Homeworks | 50% | 9, with 1 drop (6.25% each) |
-| Quizzes | 15% | 3, 5% each |
-| Final Exam | 20% | |
+| Attendance | TBD | TBD |
+| Weekly Surveys  | TBD | TBD |
+| Labs | TBD | TBD |
+| Projects | TBD | TBD |
+| Midterm | TBD | TBD |
+| Final | TBD | |
 
 **Attendance**
 
-Starting in the second week of class, attendance will be taken. Each week, there are four class sessions – three lectures and one lab. Each class session you attend earns you 1 point.
+Attendence policy are TBD. We may not require attendance. But the lab and project will build on materials covered in lectures and discussion sections. 
 
-There are a total of 52 available attendance points (4 points/week x 13 weeks, not including Week 1 or Spring Break). **39 attendance points are required for full credit**, and attaining more than 39 attendance points will give you extra credit. So for instance:
+~~Starting in the second week of class, attendance will be taken. Each week, there are four class sessions – three lectures and one lab. Each class session you attend earns you 1 point.~~
+
+~~There are a total of 52 available attendance points (4 points/week x 13 weeks, not including Week 1 or Spring Break). **39 attendance points are required for full credit**, and attaining more than 39 attendance points will give you extra credit. So for instance:~~
 - A student who earns exactly 39 points will have an attendance score of 5% * (39 / 39) = 5%.
 - A student who earns 20 attendance points will have an attendance score of 5% * (20/39) = 2.56%.
 - A student who earns 52 attendance points will have an attendance score of 5% * (52 / 39) = 6.67%.
 
-This means that you can miss one class session per week on average and still receive full credit for attendance. We expect you to attend all class sessions; this policy is meant to provide leniency for the times that you're unable to make it.
+~~This means that you can miss one class session per week on average and still receive full credit for attendance. We expect you to attend all class sessions; this policy is meant to provide leniency for the times that you're unable to make it.~~
 
 **Weekly Surveys**
 
@@ -179,9 +175,11 @@ As such, we will have feedback surveys for you to fill out roughly each week. Th
 
 There are no drops for these (so you need to do them all for full credit), but we will be lenient with their deadlines.
 
-**Homeworks**
+**Labs and Projects**
 
-There will be 11 homework assignments. We will drop your lowest homework assignment score, meaning your top 10 homework assignments will be graded. This means each homework is worth 5% of your overall grade in this class.
+Lab and Project drop policy TBD. 
+
+~~There will be 11 assignments. We will drop your lowest assignment score, meaning your top 10 assignments will be graded. This means each homework is worth 5% of your overall grade in this class.~~
 
 ### Late Policy and Extensions
 
@@ -195,7 +193,7 @@ If you submit your homework late, and do not have an extension (see below), we w
 
 This class does not satisfy any requirements for any program (other than that it counts towards the 120 unit minimum needed to graduate). As such, you're not taking it to get a good grade – you're taking it to learn!
 
-Data science is a collaborative activity. As such, we encourage you to discuss homework assignments at a high level with others, and we even give you class time to do this in lab. With that said, we ask that you write your solutions individually in your own words. Rather than copying someone else’s work, ask for help. You are not alone in this course! We're here to help you succeed. If you invest the time to learn the material and complete the assignments, you won’t need to copy any answers (taken from [61A](cs61a.org)). If you use code you found online, please cite it in a comment.
+Data science is a collaborative activity. As such, we encourage you to discuss homework assignments at a high level with others, and we even give you class time to do this in lab. With that said, we ask that you write your solutions individually in your own words. Rather than copying someone else’s work, ask for help. You are not alone in this course! We're here to help you succeed. If you invest the time to learn the material and complete the assignments, you won’t need to copy any answers. If you use code you found online, please cite it in a comment.
 
 ### A note on letter grades
 
