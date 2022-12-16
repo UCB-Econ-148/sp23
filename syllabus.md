@@ -76,17 +76,19 @@ During each lecture, there will be a few points at which we stop and ask you to 
 1. For us to get a gauge of how well the class understands the material we're currently covering
 2. For you to get a gauge of how well you understand the material we're currently covering
 
-Quick Checks are hosted on Ed using its "Lessons" feature, and will also be linked on the course website under each lecture. **Quick Checks are graded on completion, not correctness.** It's not important to get these questions right on your first try – but it's important to try them. You will be given time in lecture to answer them. If you have to miss a lecture for whatever reason, just answer that lecture's Quick Check whenever you catch up on lecture.
+~~Quick Checks are hosted on Ed using its "Lessons" feature, and will also be linked on the course website under each lecture. **Quick Checks are graded on completion, not correctness.** It's not important to get these questions right on your first try – but it's important to try them. You will be given time in lecture to answer them. If you have to miss a lecture for whatever reason, just answer that lecture's Quick Check whenever you catch up on lecture.~~
 
-Additionally, in some lecture notebooks, we will post optional practice problems. These are not required, but we recommend that you complete them.
+~~Additionally, in some lecture notebooks, we will post optional practice problems. These are not required, but we recommend that you complete them.~~
 
-### Lab
+**Attendance in lecture is required. But you only need to attend 75% of all lectures to receive full attendance credit.**
 
-There is also one lab section a week, that follows immediately after the Friday lecture. In lab, we'll spend the first ~15 minutes going over some demos that are relevant to that week's material. While there may be a notebook accompanying this demo (that we will post on the course website), **there is no lab assignment**. You'll spend the remaining ~35 minutes working on that week's homework with the help of your peers and course staff. The hope is that by participating in lab, you will be able to finish your homework quicker.
+### Discussion Section
 
-**Lab attendance is a part of your grade.**
+There is also one discussion section a week. In discussion section, we'll spend the first ~20 minutes reviewing the materials are relevant to the past week's lectures. Then, we'll spend the remaining ~30 minutes working on that week's lab with the help of your peers and course staff. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
 
-### Homeworks
+**Attendance in discussion section is required. But you only need to attend 75% of all sections to receive full attendance credit.**
+
+### Homework (Lab and Project)
 
 You learn data science by **doing** data science, not by listening or reading about it. As such, homework assignments will be your primary source of learning in this class.
 
@@ -109,10 +111,10 @@ Furthermore, you're encouraged to ask and answer questions about assignments and
 ### Exams
 
 We will have a midterm that covers the first half of the course materials. The midterm is worth 15% of your total grade. 
-- Midterm [Time and Location TBD]
-- Final [Time and Location TBD]
+- Midterm [March 10th, In class]
+- Final [May 9th, Location TBD]
 
-We will have a final exam during the campus-assigned slot: **TBD** The final exam will be cumulative.
+The final exam will be cumulative.
 
 More relevant logistics for exams will be announced on Ed.
 
@@ -147,12 +149,11 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Attendance | TBD | TBD |
-| Weekly Surveys  | TBD | TBD |
-| Labs | TBD | TBD |
-| Projects | TBD | TBD |
-| Midterm | TBD | TBD |
-| Final | TBD | |
+| Participation | 10% | Including lectures and discussion sections |
+| Labs | 20% | X lab drops |
+| Projects | 30% | TBD |
+| Midterm | 15% |  |
+| Final | 25% |  |
 
 **Attendance**
 
