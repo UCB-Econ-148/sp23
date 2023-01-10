@@ -19,12 +19,12 @@ UC Berkeley, Spring 2023
 **Lecture:** MWF 1PM-2PM, **Office Hours:** See [Ed](https://edstem.org/us/courses/25130/discussion/2076738)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+<!-- {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
   {% endfor %}
-</div>
+</div> -->
 
 <!-- [Zoom links](https://edstem.org/us/courses/25130/discussion/2076738){: .btn .btn-purple }  -->
 [Lecture recordings](https://kaltura.berkeley.edu/channel/Data%2B88E%2B-%2BEconomic%2BModels%2B-%2BFall%2B%2B22/271131692){: .btn .btn-blue }
