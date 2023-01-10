@@ -14,7 +14,7 @@ description: Course structure and policies.
 1. TOC
 {:toc}
 
-**Note:** This page is still being finalized, and the information here is tentative. Also, see [here](../enrollment) for information about enrollment.
+**Note:** <span style="color:red">**This page is still being finalized, and the information here is outdated.** </span> Also, see [here](../enrollment) for information about enrollment.
 
 ---
 
