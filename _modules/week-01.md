@@ -9,7 +9,7 @@
       - date: 2023-01-20
         events:
           "**2**{: .label .label-gray } Overview of Technology":
-            "**2**{: .label .label-ghost } slides] • codehttps://datahub.berkeley.edu/"
+            "**2**{: .label .label-ghost } slides • code"
           "**Lab 0**{: .label .label-lab } [Intro to Notebook](https://datahub.berkeley.edu/)": 
           "**Survey 1**{: .label .label-survey } Pre-Semester Survey **(due Jan. 27)**":
 ---
