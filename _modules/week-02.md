@@ -11,5 +11,5 @@
       - date: 2023-01-27
         events:
           "**5**{: .label .label-gray } Demo and Examples":
-          "**Lab 1**{: .label .label-lab } [Data Science with Pandas](https://datahub.berkeley.edu/) **(due Feb. 3)**":         
+          "**Lab 1**{: .label .label-lab } [Data Science with Pandas](https://datahub.berkeley.edu/)":         
 ---
