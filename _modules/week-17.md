@@ -4,5 +4,5 @@
     days:
       - date: 2023-05-09
         events:
-          "**Exam**{: .label .label-exam } Final":      
+          "**Exam**{: .label .label-exam } Final (8-11 AM)":      
 ---

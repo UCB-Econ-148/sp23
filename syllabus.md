@@ -28,35 +28,24 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussio
 
 ## Logistics 📆
 
-**Lecture:** Valley Life Sciences 2060 on Mondays, Wednesdays, and Fridays between 1PM-2PM 
-**Discussion Section:** See ["Associated Sections"](https://classes.berkeley.edu/content/2023-spring-econ-148-001-lec-001) for more detail. There is no section the week of Jan 17-20.  For the first 3 weeks we need you to go your assigned section time, after that we can see if we can be more flexible with section times.
+**Lecture:** Valley Life Sciences 2060 on Mondays, Wednesdays, and Fridays between 1PM-2PM
+
+**Discussion Section:** See ["Associated Sections"](https://classes.berkeley.edu/content/2023-spring-econ-148-001-lec-001) for more detail. There is no section in the first week of class (Jan 17-20). For the first 3 weeks we need you to go to your assigned section time, and after that we can see if we can be more flexible with section times.
 
 **Office Hours:** Throughout the week, see [Ed](https://edstem.org/us/courses/34369/discussion/) for more detail.
 
 Lectures, discussion sections, and office hours will be hosted in-person by default. We'll post updates in [this post on Ed](https://edstem.org/us/courses/34369/discussion/) and send out announcements if there's any changes. 
 
-
-**Section Syllabus**
-Sections are held 6 times a week by Yiyang and Peter, our UGSIs. You're welcome to attend any one you'd like, and this will count towards your participation points. (See details below) Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and final. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. Several sections will continue into office hours, where you're welcome to ask individual questions or comments on the course so far. 
-
-Expectations towards the students: 
-- Academic Integrity and Honesty per the Berkeley Honor Code
-- Participation in class activity and to gain your participation point, your expected to fill out a short quiz at the end of each section
-- That accommodations are done through the office of DSP in due time prior to the start of the event where accommodations are needed. 
-- Should technical support be needed, please contact Student Technological Services ahead of time. You'll need either a laptop/mac or a large tablet in this class.
-
----
-
 ## About 🧐
 
-**From the course catalog**: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work.  Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization.  The course will cover many aspects of preparing data for econometric analysis.  Practices around literate code, open science tools, reproducibility, and data management will also be covered.  
+**From the course catalog**: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work. Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization. The course will cover many aspects of preparing data for econometric analysis.  Practices around literate code, open science tools, reproducibility, and data management will also be covered.  
 
-Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications.The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc.   **Note that Data 8 is a prerequisite to this class, but Data 100 or Econ 140/141 is not.**  
+Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc.  **Note that Data 8 is a prerequisite to this class, but Data 100 or Econ 140/141 is not.**  
 
 This class serves a different purpose than several other classes that may sound similar. Specifically:
-- **Data 8**:. Starting from  a Data 8 background, this course _ dives deeper into Python and its applications in economics. After taking this class, you will obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research.
-- **Data 100**: Econ 148 is potentially an alternative to Data 100, for students who do not have the prereqs of CS61A and Math 54, and with more focus on data science techniques relevant to economics. Students who have taken Data 100 are suggested NOT to take this class.  And, if you can take Data 100 you should take Data 100.
-- **Data 88E**: Econ 148 is a "followup" to Data 88E. You will learn more data science skills with real-life datasets. We will also use "industry-standard" packages (e.g. Pandas, the ones that are actually being used in research and workplaces).  
+- **Data 8**: Starting from a Data 8 background, this course dives deeper into Python and its applications in economics. After taking this class, you will be able to obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research.
+- **Data 100**: Econ 148 is potentially an alternative to Data 100, for students who do not have the prereqs of CS61A and Math 54, and with more focus on data science techniques relevant to economics. Students who have taken Data 100 are suggested NOT to take this class. And, if you can take Data 100 you should take Data 100.
+- **Data 88E**: Econ 148 is a "followup" to Data 88E. You will learn more data science skills with real-life datasets. We will also use "industry-standard" packages (e.g. Pandas), the ones that are actually being used in research and workplaces.  
 - **CS 61A and CS 88**: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. 
 - **Econ 140/141**: Econ 140/141 focuses more on how to arrive at the right conclusion using statistical techniques (like various forms of regressions) given a cleaned dataset. Econ 148 focuses more on how to get this dataset, make it a cleaned dataset, and produce exploratory data analysis before diving into main regression. (This is not a trivial portion! Economists spend around 1/3 of their time on getting and cleaning data when doing empirical research!)
 
@@ -64,22 +53,24 @@ If you have already taken the prerequisite Data 8, and are interested in learnin
 
 The rough topic breakdown is as follows:
 - Pandas 
-- Elements of SQL
+- Sourcing Data - API and elements of SQL
 - Exploratory Data Analysis
 - Cleaning and Wrangling Data 
-- Visualization
-- Matplotlib / Seaborn / Plotly
-- Geopandas
+- Visualization - Matplotlib / Seaborn / Plotly / Geopandas
+- Preparing Dataset for Econometric Analysis
 - Time Series 
-- Survival Analysis
-- Classification
+- Intro to ML - Survival Analysis, Classification Techniques
 
-Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we will link supplementary readings.
+Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we will link supplementary readings. 
 
-Also, note that the course will emphasize the use of real-world data. Some possible datasets include
-- TBD
+Also, note that the course will emphasize the use of real-world data. Some possible datasets include  
+- IPUMS microdata on outcomes of college education
+- FRED data on macro indicators 
+- Zillow data on cost of housing 
+- Who owns real estate in Dubai 
+- Telco Churn / Credit Risk
 
-You will leave the course being able to independently apply the skills you've learned to datasets of your own choosing.
+You will leave the course being able to independently apply the skills you've learned to datasets of your own choosing. 
 
 ---
 
@@ -87,22 +78,30 @@ You will leave the course being able to independently apply the skills you've le
 
 ### Lecture
 
-There will be three lectures a week. In lectures, we'll introduce you to new ideas and concepts in data science oriented for economists. **Lecture attendance is a part of your participation grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course; if you click the "Lecture recordings" link on the course homepage you'll be brought to a page on Ed that only enrolled students can view.
+There will be three lectures a week. In lectures, we'll introduce you to new ideas and concepts in data science oriented for economists. **Lecture attendance is a part of your participation grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course.
 
-During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions Quick Checks. They serve two purposes:
+During each lecture, there will be a point (or more) at which we stop and ask you to answer a short question via [Poll Everywhere](https://pollev.com/). We call these questions **Quick Checks**. They serve three purposes:
 1. For us to get a gauge of how well the class understands the material we're currently covering
 2. For you to get a gauge of how well you understand the material we're currently covering
-3. For us to record lecture attendance
+3. For us to record lecture participation
 
 **Quick Checks are graded on completion, not correctness.** It's not important to get these questions right on your first try – but it's important to try them. You will be given time in lecture to answer them.
 
-**Attendance in lectures is required. But you only need to attend 75% of all lectures to receive full attendance credit.**
+**Participation in lectures counts towards your participation credits. But you only need to attend 75% of all class sections to receive full attendance credit. (See Policies for details)**
 
 ### Discussion Section
 
-There is one discussion section a week. In the discussion section, we'll spend the first ~20 minutes reviewing the materials relevant to the past week's lectures. Then, we'll spend the remaining ~30 minutes working on that week's lab with the help of your peers and course staff. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
+There is one discussion section a week that is held by Yiyang and Peter, our UGSIs. This will count towards your participation points. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and final. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
 
-**Attendance in the discussion section is required. But you only need to attend 75% of all sections to receive full attendance credit.**
+Several sections will continue into office hours, where you're welcome to ask individual questions or comments on the course so far. 
+
+Expectations towards the students:  
+- Participation in class activity. To gain your participation point, you are expected to fill out a short quiz during each section.   
+- Academic Integrity and Honesty per the Berkeley Honor Code. 
+- Accommodations are done through the office of DSP in due time prior to the start of the event where accommodations are needed. 
+- Should technical support be needed, please contact Student Technological Services ahead of time. You'll need either a laptop/mac or a large tablet in this class.
+
+**Participation in discussion sections counts towards your participation credits. But you only need to attend 75% of all class sections to receive full attendance credit. (See Policies for details)**
 
 ### Lab and Project
 
@@ -110,16 +109,15 @@ You learn data science by **doing** data science, not by listening or reading ab
 
 Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you're on the right track or not, but most local autograders are not comprehensive–we will have additional hidden tests when you submit your labs and projects. Most labs and projects will also include a few "written" problems, where you have to type your answer in text. These problems will be manually graded.
 
-
 There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released on Thursday evening, and will be due the following Thursday at 11:59PM. See the Policies section for our extensions and late submissions policy, as well as our drop policy.
 
 All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. 
 
 ### Office Hours and Ed
 
-In addition to lectures and labs, we will host three office hours per week. In office hours, you'll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. 
+In addition to lectures and labs, we will host several office hours a week. In office hours, you'll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. 
 
-Furthermore, you're encouraged to ask and answer questions about assignments and concepts on Ed. 
+Furthermore, you're encouraged to ask and answer questions about assignments and concepts on Ed. Make a private post if you want to post your code for debugging. 
 
 ### Exams
 
@@ -140,6 +138,7 @@ We will be using several websites this semester. Here's what they're all used fo
 - [Ed](https://edstem.org/us/courses/34369/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. 
 - [DataHub](http://datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.)
 - [Gradescope](https://www.gradescope.com/courses/487793): where all labs and projects are submitted and all grades live. (Not bCourses! 🙅)
+- [Poll Everywhere](https://pollev.com/) : this is where we will do class checks and attendance checks! 
 
 ---
 
@@ -152,26 +151,26 @@ Here's how we will compute your grade.
 | Component | Weight | Notes |
 | --- | --- | --- |
 | Participation | 10% | Including lectures and discussion sections |
-| Labs | 20% | 1 lab drop|
-| Projects | 30% |  |
-| Midterm | 15% |  |
-| Final | 25% |  |
+| Labs | 20% | 1 lab drop |
+| Projects | 30% | |
+| Midterm | 15% | |
+| Final | 25% | |
 
 **Participation**
 
 Starting in the second week of class, attendance will be taken. Each week, there are four class sessions – three lectures and one discussion. Each class session you attend earns you 1 point. Attendance will be taken using polls during lectures and discussion sections. 
 
-There are a total of 51 available attendance points–38 lectures and 13 discussion sections. **75% of attendance (38 attendance points) are required for full credit**, and attaining more than 38 attendance points will give you extra credit. 
+There are a total of 50 available participation points–37 lectures and 13 discussion sections. **37 participation points (about 75% of attendance) are required for full credit**. 
 
-This means that you can miss one class session per week on average and still receive full credit for attendance. We expect you to attend all class sessions; this policy is meant to provide leniency for the times that you're unable to make it.
+This means that you can miss one class session per week on average and still receive full credit for participation. We expect you to attend all class sessions; this policy is meant to provide leniency for the times that you're unable to make it.
 
 **Surveys**
 
-Given the state of our universe right now, we want to check in with you each week to hear how you're doing, both academically and personally. Furthermore, since this is a new class, we're very interested in receiving your feedback as to how it's going and how we can improve.
+Since this is a new class, we're very interested in receiving your feedback as to how it's going and how we can improve. 
 
-As such, we will have feedback surveys for you to fill out roughly each week. These will coincide with homework assignments, e.g. Survey 2 and Homework 2 will come out and be due at the same time. These will be hosted on Google Forms, and will be posted on both the course homepage and on Ed. They will generally not be anonymous, so that we can reach out to you if we feel the need to based on your responses. However, there will be a few points in the semester for you to provide us with anonymous feedback about the course.
+As such, we will have feedback surveys for you to fill out a few times this semester. These will be hosted on Google Forms, and will be posted on both the course homepage and on Ed. There is also a [feedback form](https://forms.gle/hkgAjKGh9NtFRA1k9) where you can share your feedback anonymously. 
 
-There are no drops for these (so you need to do them all for full credit), but we will be lenient with their deadlines.
+There are no drops for these, but we will be lenient with their deadlines.
 
 **Labs**
 
@@ -198,13 +197,13 @@ When scores for assignments are released, regrade windows will be open for two d
 
 ### Academic Honesty
 
-You must write your answers in your own words, and you must not plagiarize your completed work.
+You must write your answers in your own words, and you must not plagiarize your completed work. Every semester we have to deal with people who share answers, attendance passwords, and code. We can see it and we can test for it with a detection script. 
 
 Make a serious attempt at every assignment yourself. If you get stuck, read the supporting code, refer to examples in the lectures and discussion sections. After that, go ahead and discuss any remaining doubts with others, especially the course staff during office hours. That way you will get the most out of the course content.
 
 You are also not permitted to turn in answers or code that you have obtained from others. Not only is such copying dishonest, it misses the point of the assignments, which is not for you to find the answers somewhere and send them along to the staff. It is for you to figure out how to solve the problems, with the support available in the course.
 
-Please read Berkeley's Code of Conduct carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the Center for Student Conduct. They might also include a F in the course or even dismissal from the university. It's just not worth it.
+Please read [Berkeley's Code of Conduct](https://conduct.berkeley.edu/code-of-conduct/) carefully. Penalties for cheating at UC Berkeley are severe and include reporting to the [Center for Student Conduct](https://conduct.berkeley.edu/). They might also include a F in the course or even dismissal from the university. It's just not worth it.
 
 Data science is a collaborative activity. As such, we encourage you to discuss assignments with others. Go on Ed and discuss with other students. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
@@ -223,6 +222,7 @@ To help accomplish this:
 
 If you have any special needs or require ability-related accommodations, please notify the instructor as soon as possible. If an unexpected personal or medical challenge is interfering with your ability to complete assignments and/or attend class, it is important that you contact the instructor or course staff as early as possible. Further resources are available through the [Disabled Students Program](https://dsp.berkeley.edu).
 
+
 ---
 
 ## Acknowledgements 🙏
@@ -231,5 +231,9 @@ This class is loosely based on Data C100 and Data 88E. When creating Econ 148, w
 
 - [Data 8](http://data8.org)
 - [Data 100](https://ds100.org)
+- ERE 131
+- [DS Modules](https://www.github.com/ds-modules)
+
+
 
 The website uses [Just the Class](https://kevinl.info/just-the-class/).
