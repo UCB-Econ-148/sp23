@@ -4,12 +4,12 @@
     days:
       - date: 2023-04-10
         events:
-          "**32**{: .label .label-gray } Week 13 Lecture 1":
+          "**31**{: .label .label-gray } Week 13 Lecture 1":
       - date: 2023-04-12
         events:
-          "**33**{: .label .label-gray } Week 13 Lecture 2":
+          "**32**{: .label .label-gray } Week 13 Lecture 2":
       - date: 2023-04-14
         events:
-          "**34**{: .label .label-gray } Week 13 Lecture 3":
+          "**33**{: .label .label-gray } Week 13 Lecture 3":
           "**Lab 9**{: .label .label-lab } [Time Series](https://datahub.berkeley.edu/)":         
 ---

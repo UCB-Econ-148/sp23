@@ -10,7 +10,6 @@
           "**21**{: .label .label-gray } Week 8 Lecture 2":
       - date: 2023-03-10
         events:
-          "**22**{: .label .label-gray } Week 8 Lecture 3":
+          "**Exam**{: .label .label-exam } Midterm": 
           "**Lab 6**{: .label .label-lab } [Advanced Visualization](https://datahub.berkeley.edu/)":
-          "**Exam**{: .label .label-exam } Midterm":         
 ---

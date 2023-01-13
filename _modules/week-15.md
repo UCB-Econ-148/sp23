@@ -4,12 +4,12 @@
     days:
       - date: 2023-04-24
         events:
-          "**38**{: .label .label-gray } Week 15 Lecture 1":
+          "**37**{: .label .label-gray } Week 15 Lecture 1":
       - date: 2023-04-26
         events:
-          "**39**{: .label .label-gray } Week 15 Lecture 2":
+          "**38**{: .label .label-gray } Week 15 Lecture 2":
       - date: 2023-04-28
         events:
-          "**40**{: .label .label-gray } Week 15 Lecture 3":
+          "**39**{: .label .label-gray } Week 15 Lecture 3":
           "**Lab 10**{: .label .label-lab } [Environment](https://datahub.berkeley.edu/)":         
 ---
