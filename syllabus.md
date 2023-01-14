@@ -14,7 +14,7 @@ description: Course structure and policies.
 1. TOC
 {:toc}
 
-**Note:** <span style="color:red">**This page is still being finalized, and the information here is outdated.** </span> Also, see [here](../enrollment) for information about enrollment.
+**Note:** <span style="color:red">**This page is still being finalized, and some information here is outdated.** </span> Also, see [here](../enrollment) for information about enrollment.
 
 ---
 
@@ -174,7 +174,7 @@ There are no drops for these, but we will be lenient with their deadlines.
 
 **Labs**
 
-There will be 10 labs in total and all labs are weighted equally. Labs are graded by completion. 
+There will be 10 labs in total and all labs are weighted equally. Labs are graded by TBD. 
 
 You will have 1 lab drop to be used at any time throughout the semester.
 
