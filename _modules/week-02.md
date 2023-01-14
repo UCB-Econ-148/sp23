@@ -12,6 +12,6 @@
       - date: 2023-01-27
         events:
           "**5**{: .label .label-gray } Demo and Examples":
-          "**Lab 2**{: .label .label-lab } [Data Cleaning](https://datahub.berkeley.edu/)":
+          "**Lab 2**{: .label .label-lab } Data Cleaning":
 
 ---

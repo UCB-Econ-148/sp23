@@ -12,5 +12,5 @@
       - date: 2023-02-03
         events:
           "**8**{: .label .label-gray } Week 3 Lecture 3":
-          "**Lab 3**{: .label .label-lab } [Exploratory Data Analysis](https://datahub.berkeley.edu/)":         
+          "**Lab 3**{: .label .label-lab } Exploratory Data Analysis":         
 ---

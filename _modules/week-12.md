@@ -11,5 +11,5 @@
       - date: 2023-04-07
         events:
           "**30**{: .label .label-gray } Week 12 Lecture 3":
-          "**Lab 9**{: .label .label-lab } [Time Series](https://datahub.berkeley.edu/)":          
+          "**Lab 9**{: .label .label-lab } Time Series":          
 ---

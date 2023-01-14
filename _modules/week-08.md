@@ -11,5 +11,5 @@
       - date: 2023-03-10
         events:
           "**Exam**{: .label .label-exam } Midterm": 
-          "**Project 2**{: .label .label-proj } [Mariel Boatlift](https://datahub.berkeley.edu/)":
+          "**Project 2**{: .label .label-proj } Mariel Boatlift":
 ---
