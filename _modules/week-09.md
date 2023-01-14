@@ -11,6 +11,6 @@
       - date: 2023-03-17
         events:
           "**24**{: .label .label-gray } Week 9 Lecture 3":
-          "**Project 2**{: .label .label-proj } [Mariel Boatlift](https://datahub.berkeley.edu/)":
+          "**Lab 7**{: .label .label-lab } [Justice 50](https://datahub.berkeley.edu/)":
           "**Survey 2**{: .label .label-survey } [Mid-Semester Survey](https://google.com)":          
 ---

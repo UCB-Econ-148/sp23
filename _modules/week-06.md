@@ -11,5 +11,5 @@
       - date: 2023-02-24
         events:
           "**16**{: .label .label-gray } Week 6 Lecture 2":
-          "**Lab 4**{: .label .label-lab } [SQL](https://datahub.berkeley.edu/)":         
+          "**Lab 5**{: .label .label-lab } [Intro to Visualization](https://datahub.berkeley.edu/)":         
 ---

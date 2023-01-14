@@ -11,5 +11,5 @@
       - date: 2023-02-10
         events:
           "**11**{: .label .label-gray } Week 4 Lecture 3":
-          "**Lab 3**{: .label .label-lab } [Exploratory Data Analysis](https://datahub.berkeley.edu/)":         
+          "**Project 1**{: .label .label-proj } [Regional GDP](https://datahub.berkeley.edu/)":         
 ---

@@ -11,5 +11,5 @@
       - date: 2023-04-21
         events:
           "**36**{: .label .label-gray } Week 14 Lecture 3":
-          "**Project 3**{: .label .label-proj } [Group Project](https://datahub.berkeley.edu/)":         
+          "**Lab 10**{: .label .label-lab } [Environment](https://datahub.berkeley.edu/)":        
 ---

@@ -11,5 +11,5 @@
       - date: 2023-03-24
         events:
           "**27**{: .label .label-gray } Week 10 Lecture 3":
-          "**Lab 7**{: .label .label-lab } [Justice 50](https://datahub.berkeley.edu/)":         
+          "**Lab 8**{: .label .label-lab } [Survival Analysis](https://datahub.berkeley.edu/)":         
 ---
