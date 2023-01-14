@@ -5,6 +5,7 @@
       - date: 2023-02-13
         events:
           "**12**{: .label .label-gray } Week 5 Lecture 1":
+          "**Disc 4**{: .label .label-disc } ":
       - date: 2023-02-15
         events:
           "**13**{: .label .label-gray } Week 5 Lecture 2":
