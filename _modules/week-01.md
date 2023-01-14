@@ -4,8 +4,8 @@
     days:
       - date: 2023-01-15
         events:
-          "**Lab 0**{: .label .label-lab } [Intro to Notebook (Optional)](https://datahub.berkeley.edu/)": 
-          "**Survey 1**{: .label .label-survey } Pre-Semester Survey **(due Jan. 27)**":
+          "**Lab 0**{: .label .label-lab } [Intro to Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=retro%2Ftree%2Fsp23-student%2Flab%2Flab00%2Flab00.ipynb) (Optional)": 
+          "**Survey 1**{: .label .label-survey } [Pre-Semester Survey](https://forms.gle/XN5AveK5PxgkzXoy6) **(due Jan. 20)**":
       - date: 2023-01-18
         events:
           "**1**{: .label .label-gray } Introduction and Course Overview":
