@@ -16,7 +16,7 @@ UC Berkeley, Spring 2023
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {: .mb-3 }
-**Lecture:** MWF 1PM-2PM, **Office Hours:** See [Ed](https://edstem.org/us/courses/34369/discussion/)
+**Lecture:** MWF 1PM-2PM, **Office Hours:** See [Calendar](./calendar) and [Ed](https://edstem.org/us/courses/34369/discussion/)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 <div>
@@ -31,7 +31,9 @@ UC Berkeley, Spring 2023
 <!-- [Zoom links](https://edstem.org/us/courses/25130/discussion/2076738){: .btn .btn-purple }  -->
 [Lecture recordings](https://kaltura.berkeley.edu/){: .btn .btn-blue }
 
-+ <span style="color:red">**The class website is being built at the moment.** </span>
+<br>
+
++ <span style="color:red">**The class website is still under construction.** </span>
 + The schedule and dates listed below are tentative and may be subject to change. 
 + All announcements are on [Ed](https://edstem.org/us/courses/34369/discussion/). Make sure you are enrolled and active there.
 + The [Syllabus](./syllabus) contains a detailed explanation of how each course component will work this semester
