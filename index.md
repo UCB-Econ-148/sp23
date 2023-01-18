@@ -31,9 +31,6 @@ UC Berkeley, Spring 2023
 <!-- [Zoom links](https://edstem.org/us/courses/25130/discussion/2076738){: .btn .btn-purple }  -->
 [Lecture recordings](https://kaltura.berkeley.edu/){: .btn .btn-blue }
 
-<br>
-
-+ <span style="color:red">**The class website is still under construction.** </span>
 + The schedule and dates listed below are tentative and may be subject to change. 
 + All announcements are on [Ed](https://edstem.org/us/courses/34369/discussion/). Make sure you are enrolled and active there.
 + The [Syllabus](./syllabus) contains a detailed explanation of how each course component will work this semester

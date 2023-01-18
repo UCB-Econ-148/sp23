@@ -5,7 +5,7 @@
       - date: 2023-01-23
         events:
           "**3**{: .label .label-gray } Application Programming Interface (API)":
-          "**Disc 1**{: .label .label-disc } Welcome":
+          "**Disc 1**{: .label .label-disc } Pandas":
       - date: 2023-01-25
         events:
           "**4**{: .label .label-gray } Working with Census Data":

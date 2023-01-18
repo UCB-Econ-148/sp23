@@ -13,6 +13,6 @@
       - date: 2023-01-20
         events:
           "**2**{: .label .label-gray } Overview of Technology":
-            "**2**{: .label .label-ghost } slides • code"
+            "**2**{: .label .label-ghost } slides"
           "**Lab 1**{: .label .label-lab } Pandas":
 ---
