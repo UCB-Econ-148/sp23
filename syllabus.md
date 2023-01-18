@@ -14,7 +14,7 @@ description: Course structure and policies.
 1. TOC
 {:toc}
 
-**Note:** <span style="color:red">**This page is still being finalized, and some information here is outdated.** </span> Also, see [here](../enrollment) for information about enrollment.
+**Note:** <span style="color:red">**This page is still being finalized.** </span> Also, see [here](../enrollment) for information about enrollment.
 
 ---
 
@@ -28,7 +28,7 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussio
 
 ## Logistics 📆
 
-**Lecture:** Valley Life Sciences 2060 on Mondays, Wednesdays, and Fridays between 1PM-2PM
+**Lecture:** Valley Life Sciences 2060 on Mondays, Wednesdays, and Fridays from 1PM-2PM
 
 **Discussion Section:** See ["Associated Sections"](https://classes.berkeley.edu/content/2023-spring-econ-148-001-lec-001) for more detail. There is no section in the first week of class (Jan 17-20). For the first 3 weeks we need you to go to your assigned section time, and after that we can see if we can be more flexible with section times.
 
@@ -36,11 +36,13 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/34369/discussio
 
 Lectures, discussion sections, and office hours will be hosted in-person by default. We'll post updates in [this post on Ed](https://edstem.org/us/courses/34369/discussion/) and send out announcements if there's any changes. 
 
+---
+
 ## About 🧐
 
 **From the course catalog**: This course will give the undergraduate student the basic computational building blocks needed to be a good consumer and producer of applied economics work. Students will work to acquire data through APIs, access census data, or download from replication repositories. The course will cover wrangling data, working with incomplete or unstructured data, joining and merging data, exploratory data analysis and data visualization. The course will cover many aspects of preparing data for econometric analysis.  Practices around literate code, open science tools, reproducibility, and data management will also be covered.  
 
-Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc.  **Note that Data 8 is a prerequisite to this class, but Data 100 or Econ 140/141 is not.**  
+Econ 148 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications. The main Python package we will use for data manipulation is Pandas, and several related packages such as Seaborn, GeoPandas, etc.  **Note that Data 8 (or Stat 20 and familiarity with Python) is a prerequisite to this class, but Data 100 or Econ 140/141 is not.**  
 
 This class serves a different purpose than several other classes that may sound similar. Specifically:
 - **Data 8**: Starting from a Data 8 background, this course dives deeper into Python and its applications in economics. After taking this class, you will be able to obtain, clean, and analyze economics data independently, and be well-equipped (in terms of data science skills) to write a paper/thesis and do economics research.
@@ -89,6 +91,8 @@ During each lecture, there will be a point (or more) at which we stop and ask yo
 
 **Participation in lectures counts towards your participation credits. But you only need to attend 75% of all class sections to receive full attendance credit. (See Policies for details)**
 
+<br>
+
 ### Discussion Section
 
 There is one discussion section a week that is held by Yiyang and Peter, our UGSIs. This will count towards your participation points. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and final. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
@@ -103,6 +107,8 @@ Expectations towards the students:
 
 **Participation in discussion sections counts towards your participation credits. But you only need to attend 75% of all class sections to receive full attendance credit. (See Policies for details)**
 
+<br>
+
 ### Lab and Project
 
 You learn data science by **doing** data science, not by listening or reading about it. As such, labs and projects will be your primary source of learning in this class.
@@ -113,11 +119,15 @@ There will be 10 labs and 3 projects in total. In general, lab and project assig
 
 All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. 
 
+<br>
+
 ### Office Hours and Ed
 
 In addition to lectures and labs, we will host several office hours a week. In office hours, you'll get a chance to ask questions about and work with your peers on assignments. You are also very welcome to ask about course logistics and lecture materials. We highly recommend attending office hours if you feel like you need help and/or clarification on any assignments or materials. 
 
 Furthermore, you're encouraged to ask and answer questions about assignments and concepts on Ed. Make a private post if you want to post your code for debugging. 
+
+<br>
 
 ### Exams
 
@@ -150,9 +160,9 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Participation | 10% | Including lectures and discussion sections |
+| Participation | 10% | Including lectures, discussion sections, and surveys |
 | Labs | 20% | 1 lab drop |
-| Projects | 30% | |
+| Projects | 30% | no drops |
 | Midterm | 15% | |
 | Final | 25% | |
 
@@ -174,13 +184,15 @@ There are no drops for these, but we will be lenient with their deadlines.
 
 **Labs**
 
-There will be 10 labs in total and all labs are weighted equally. Labs are graded by TBD. 
+There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to (i.e. all tests are public, and there is no hidden tests). Free response questions will be graded by completion and effort. 
 
 You will have 1 lab drop to be used at any time throughout the semester.
 
 **Projects**
 
-There will be 3 projects in total and all projects are weighted equally. Projects are graded by correctness. 
+There will be 3 projects in total and all projects are weighted equally. Projects are graded by correctness. There will be hidden tests for projects. 
+
+<br>
 
 ### Late Policy and Extensions
 
@@ -190,10 +202,13 @@ Students are allowed to submit labs and projects late for a 50% penalty within 4
 
 **Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please make a private post on Ed with the reason for your request and number of days you're requesting an extension for. As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to email the instructor for extensions, but not with a reason.
 
+<br>
+
 ### Regrade Requests
 
 When scores for assignments are released, regrade windows will be open for two days. Regrade requests that are made via email/Ed outside of the designated regrade window will not be entertained.
 
+<br>
 
 ### Academic Honesty
 
@@ -209,6 +224,8 @@ Data science is a collaborative activity. As such, we encourage you to discuss a
 
 You are not alone in this course! We're here to help you succeed. If you invest the time to learn the material and complete the assignments, you won’t need to copy any answers. If you use code you found online, please cite it in a comment.
 
+<br>
+
 ### Inclusion
 
 The instructor and course staff are committed to creating an inclusive learning environment, one that welcomes all students and supports a diversity of beliefs, thoughts, perspectives, values, and experiences, and one that respects all identities and backgrounds (including race/ethnicity, nationality, gender, class, religion, ability, sexual orientation, etc.) 
@@ -217,6 +234,8 @@ To help accomplish this:
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with the instructor or course staff. We are here to be a resource for you.
 - We are here to learn, and sometimes along the way we make mistakes. If something is said in class that makes you feel uncomfortable, please come and talk to the instructor or course staff about it.
 - As a participant in this class, you should strive to respect the diversity of your classmates.
+
+<br>
 
 ### Accommodations
 
@@ -231,7 +250,7 @@ This class is loosely based on Data C100 and Data 88E. When creating Econ 148, w
 
 - [Data 8](http://data8.org)
 - [Data 100](https://ds100.org)
-- ERE 131
+- [ERE 131](https://erg.berkeley.edu/new-erg-course-data-environment-and-society/)
 - [DS Modules](https://www.github.com/ds-modules)
 
 
