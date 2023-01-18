@@ -9,10 +9,10 @@
       - date: 2023-01-18
         events:
           "**1**{: .label .label-gray } Introduction and Course Overview":
-            "**1**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1479YAs9_GTqfqoP0zaPqdcOpizHbhFKfUhy02T-XwDo/edit?usp=sharing) "
+            "**1**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1479YAs9_GTqfqoP0zaPqdcOpizHbhFKfUhy02T-XwDo/edit?usp=sharing) • video"
       - date: 2023-01-20
         events:
           "**2**{: .label .label-gray } Overview of Technology":
-            "**2**{: .label .label-ghost } slides"
+            "**2**{: .label .label-ghost } slides • video"
           "**Lab 1**{: .label .label-lab } Pandas":
 ---
