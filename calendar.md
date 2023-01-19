@@ -11,12 +11,10 @@ description: Calendars with times for course events.
 
 ## Office Hours Calendar
 
-In-person office hours are in <span style="color:blue">**blue**</span>, while virtual office hours are in <span style="color:brown">**brown**</span>. Click on each event to see which GSI and/or TA is running each office hour time. You should come to these with questions about anything – labs, projects, discussions, concepts, etc. 
+To access office hours, go to the room in the location of the office hour slot you're planning on attending. For some individual office hours, you will need to sign up for a 15-min time slots before attending them. For other group office hours, you can just drop in at the location during the time of the office hours. 
 
-**Note: If you are attending online office hour, note that there is limited staff online and the wait time is usually much longer than in-person options.**
-
-To access in-person office hours, go to the room in the location of the office hour slot you're planning on attending.
-
-Instructor office hours with Professor Eric Van Dusen appear in <span style="color:red">**red**</span>. You should come to these with questions about concepts. 
+We will make announcements on Ed if there're any changes to office hours. Some of the changes may not be reflected in the calendar below. 
 
 **Google Calendar To Be Updated**
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_9b09870cab8b2b70fd7c42e6467eee8a5d1a02f803e395bd8946f414be08c102%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
