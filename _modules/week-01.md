@@ -15,5 +15,5 @@
         events:
           "**2**{: .label .label-gray } Overview of Technology":
             "**2**{: .label .label-ghost } slides • video"
-          "**Lab 1**{: .label .label-lab } Pandas":
+          "**Lab 1**{: .label .label-lab } [Pandas](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flab%2Flab01%2Flab01.ipynb)":
 ---
