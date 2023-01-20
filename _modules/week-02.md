@@ -5,7 +5,7 @@
       - date: 2023-01-23
         events:
           "**3**{: .label .label-gray } Application Programming Interface (API)":
-          "**Disc 1**{: .label .label-disc } Pandas":
+          "**Disc 1**{: .label .label-disc } [Pandas](https://docs.google.com/presentation/d/1dKVLLHlvqothhCrzvwxbDOY86avU8EFL05nKo04rZ8g/edit?usp=sharing)":
       - date: 2023-01-25
         events:
           "**4**{: .label .label-gray } Working with Census Data":
