@@ -115,7 +115,7 @@ You learn data science by **doing** data science, not by listening or reading ab
 
 Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you're on the right track or not, but most local autograders are not comprehensive–we will have additional hidden tests when you submit your labs and projects. Most labs and projects will also include a few "written" problems, where you have to type your answer in text. These problems will be manually graded.
 
-There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released on Thursday evening, and will be due the following Thursday at 11:59PM. See the Policies section for our extensions and late submissions policy, as well as our drop policy.
+There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released on Sunday evenings, and will be due the following Monday before class (1:00PM). See the Policies section for our extensions and late submissions policy, as well as our drop policy.
 
 All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. 
 
