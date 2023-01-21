@@ -16,6 +16,12 @@ description: Course structure and policies.
 
 **Note:** <span style="color:red">**This page is still being finalized.** </span> Also, see [here](../enrollment) for information about enrollment.
 
+<br>
+
+**Recent Changes**
+- (1/20) [Assignments timeline changed](https://www.econ148.org/sp23/syllabus/#lab-and-project): now assignments will be released on Sunday evenings, and due on the following Mondays before class (1:00PM PST). 
+- (1/18) [Lab grading details updated](https://www.econ148.org/sp23/syllabus/#grading). 
+
 ---
 
 ## Communication 💬
@@ -184,7 +190,7 @@ There are no drops for these, but we will be lenient with their deadlines.
 
 **Labs**
 
-There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to (i.e. all tests are public, and there is no hidden tests). Free response questions will be graded by completion and effort. 
+There will be 10 labs in total and all labs are weighted equally. Labs will consists of autograded coding questions and text-based free response questions. The autograded questions will be graded by correctness, but all test cases used in the autograder will be available to you (i.e. all tests are public, and there is no hidden tests). Free response questions will be graded by completion and effort. 
 
 You will have 1 lab drop to be used at any time throughout the semester.
 
