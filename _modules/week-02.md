@@ -6,7 +6,7 @@
         events:
           "**3**{: .label .label-gray } Application Programming Interface (API)":
           "**Disc 1**{: .label .label-disc } Pandas":
-            "**Disc 1**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1dKVLLHlvqothhCrzvwxbDOY86avU8EFL05nKo04rZ8g/edit?usp=sharing) • video • [supplemental reading](https://data-88e.github.io/textbook/content/09-macro/phillips_curve.html)"
+            "**Disc 1**{: .label .label-ghost-align } [slides](https://docs.google.com/presentation/d/1dKVLLHlvqothhCrzvwxbDOY86avU8EFL05nKo04rZ8g/edit?usp=sharing) • video • [supplemental reading](https://data-88e.github.io/textbook/content/09-macro/phillips_curve.html)"
       - date: 2023-01-25
         events:
           "**4**{: .label .label-gray } Working with Census Data":
