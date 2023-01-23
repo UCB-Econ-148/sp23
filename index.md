@@ -29,7 +29,7 @@ UC Berkeley, Spring 2023
 </div>
 
 <!-- [Zoom links](https://edstem.org/us/courses/25130/discussion/2076738){: .btn .btn-purple }  -->
-[Lecture recordings](https://kaltura.berkeley.edu/){: .btn .btn-blue }
+[Lecture recordings](https://bcourses.berkeley.edu/courses/1522114/external_tools/78985){: .btn .btn-blue }
 
 + The schedule and dates listed below are tentative and may be subject to change. 
 + All announcements are on [Ed](https://edstem.org/us/courses/34369/discussion/). Make sure you are enrolled and active there.
