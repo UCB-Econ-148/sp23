@@ -5,7 +5,7 @@
       - date: 2023-01-23
         events:
           "**3**{: .label .label-gray } Datahub to Pandas":
-            "**3**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1m_XHNS2irdEcrBPVDYgWayqSutPmHipmlzPLbTplS6I/edit?usp=sharing) • video"
+            "**3**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1m_XHNS2irdEcrBPVDYgWayqSutPmHipmlzPLbTplS6I/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_l3qggrod/288222162)"
           "**Disc 1**{: .label .label-disc } [Pandas](https://docs.google.com/presentation/d/1dKVLLHlvqothhCrzvwxbDOY86avU8EFL05nKo04rZ8g/edit?usp=sharing) ([supp. reading](https://data-88e.github.io/textbook/content/09-macro/phillips_curve.html))":
       - date: 2023-01-25
         events:
