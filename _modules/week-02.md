@@ -10,10 +10,11 @@
       - date: 2023-01-25
         events:
           "**4**{: .label .label-gray } Pandas and Phillips Curve":
-            "**4**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1u1gHXPiaTt0QfiPUR-2MdnOioxZatgA1840mrAFMiUI/edit?usp=sharing) • code: [Datascience to Pandas](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec2-2%2Fds-to-pandas-lecture.ipynb), [Phillips Curve](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec2-2%2Flec2-2.ipynb) • video"
+            "**4**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1u1gHXPiaTt0QfiPUR-2MdnOioxZatgA1840mrAFMiUI/edit?usp=sharing) • code: [Datascience to Pandas](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec2-2%2Fds-to-pandas-lecture.ipynb), [Phillips Curve](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec2-2%2Flec2-2.ipynb) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_faj5ru1r/288222162)"
       - date: 2023-01-27
         events:
           "**5**{: .label .label-gray } Week 2 Lecture 3":
+            "**5**{: .label .label-ghost } slides • video"
           "**Lab 2**{: .label .label-lab } API and Data Cleaning":
 
 ---
