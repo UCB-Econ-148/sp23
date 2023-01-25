@@ -9,7 +9,8 @@
           "**Disc 1**{: .label .label-disc } [Pandas](https://docs.google.com/presentation/d/1dKVLLHlvqothhCrzvwxbDOY86avU8EFL05nKo04rZ8g/edit?usp=sharing) ([supp. reading](https://data-88e.github.io/textbook/content/09-macro/phillips_curve.html))":
       - date: 2023-01-25
         events:
-          "**4**{: .label .label-gray } Week 2 Lecture 2":
+          "**4**{: .label .label-gray } Pandas and Phillips Curve":
+            "**4**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1u1gHXPiaTt0QfiPUR-2MdnOioxZatgA1840mrAFMiUI/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec2-2%2Flec2-2.ipynb) • video"
       - date: 2023-01-27
         events:
           "**5**{: .label .label-gray } Week 2 Lecture 3":
