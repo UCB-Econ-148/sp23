@@ -14,7 +14,6 @@
       - date: 2023-01-27
         events:
           "**5**{: .label .label-gray } Pandas and Data Sources":
-            "**5**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1u66fCCEYk-hVDmAd4ZTUL8nhMcpbirhWCYO_hoS3z4w/edit?usp=sharing) • video"
+            "**5**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1u66fCCEYk-hVDmAd4ZTUL8nhMcpbirhWCYO_hoS3z4w/edit?usp=sharing) • video • code: [EIA API](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec2-3)"
           "**Lab 2**{: .label .label-lab } API and Data Cleaning":
-
 ---
