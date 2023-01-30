@@ -14,11 +14,12 @@ description: Course structure and policies.
 1. TOC
 {:toc}
 
-**Note:** <span style="color:red">**This page is still being finalized.** </span> Also, see [here](../enrollment) for information about enrollment.
+**Note:** See [here](../enrollment) for information about enrollment.
 
 <br>
 
 **Recent Changes**
+- (1/30) [Assignments timeline changed](https://www.econ148.org/sp23/syllabus/#lab-and-project): now assignments will be released on Sunday evenings, and due on the following Tuesday midnights (11:59PM PST). 
 - (1/20) [Assignments timeline changed](https://www.econ148.org/sp23/syllabus/#lab-and-project): now assignments will be released on Sunday evenings, and due on the following Mondays before class (1:00PM PST). 
 - (1/18) [Lab grading details updated](https://www.econ148.org/sp23/syllabus/#grading). 
 
@@ -121,7 +122,7 @@ You learn data science by **doing** data science, not by listening or reading ab
 
 Labs and projects primarily consist of tasks to clean, manipulate, and understand real-life datasets. You will apply the skills you learned in recent lectures to accomplish these tasks. Autograder tests in your notebook will tell you if you're on the right track or not, but most local autograders are not comprehensive–we will have additional hidden tests when you submit your labs and projects. Most labs and projects will also include a few "written" problems, where you have to type your answer in text. These problems will be manually graded.
 
-There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released on Sunday evenings, and will be due the following Monday before class (1:00PM). See the Policies section for our extensions and late submissions policy, as well as our drop policy.
+There will be 10 labs and 3 projects in total. In general, lab and project assignments will be released on Sunday evenings, and will be due the following Tuesday midnights (11:59PM). See the Policies section for our extensions and late submissions policy, as well as our drop policy.
 
 All lab and project assignments should be completed individually except Project 3 (which is a group project; details will be announced later in the semester). But we encourage you to discuss approaches with others; see our Academic Honesty policy below. 
 
