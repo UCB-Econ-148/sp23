@@ -6,7 +6,7 @@
         events:
           "**6**{: .label .label-gray } Application Programming Interface (API)":
             "**6**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1tpExbUd4rp_D15cOisrnTN1PyKO7VDZz4l4JTUCuq5c/edit?usp=sharing) • video • code: [Using APIs](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-1%2FLec3.1.ipynb)"
-          "**Disc 2**{: .label .label-disc } [Conditional Filtering, Functions & APIs](https://docs.google.com/presentation/d/13hwGUMStShL3KDhhx-YDVFWWyesM2OUwWXhNqL5Krzw/edit?usp=sharing) ([demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fdisc%2Fdisc02%2Fdisc2-demo.ipynb))":
+          "**Disc 2**{: .label .label-disc } Conditional Filtering, Functions & APIs ([slides](https://docs.google.com/presentation/d/13hwGUMStShL3KDhhx-YDVFWWyesM2OUwWXhNqL5Krzw/edit?usp=sharing)) ([demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fdisc%2Fdisc02%2Fdisc2-demo.ipynb))":
       - date: 2023-02-01
         events:
           "**7**{: .label .label-gray } Week 3 Lecture 2":
