@@ -10,10 +10,10 @@
       - date: 2023-02-01
         events:
           "**7**{: .label .label-gray } FOMC and Macro Indicators":
-            "**7**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1fAllq0bg8oXRkGx3pklc1mRjEYnDPHUl2WLgOmkJwxA/edit?usp=sharing) • video • code: [Pandas II](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-2%2FLec3.2_Pandas.ipynb), [Stock Ticker](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-2%2FStockTicker.ipynb)"
+            "**7**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1fAllq0bg8oXRkGx3pklc1mRjEYnDPHUl2WLgOmkJwxA/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_81jt11f8/288222162) • code: [Pandas II](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-2%2FLec3.2_Pandas.ipynb), [Stock Ticker](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-2%2FStockTicker.ipynb)"
       - date: 2023-02-03
         events:
           "**8**{: .label .label-gray } Guest Lecture: Economic Data and WRDS (Jim Church)":
-            "**8**{: .label .label-ghost } slides • video • code"
+            "**8**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1oHP2sLDP1g52ZhET5fuPoEv62HbwJZKrAAaS31lplFE/edit?usp=sharing) • video • code: [WRDS](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-3%2FWRDS+Setup+and+Samples.ipynb)"
           "**Lab 3**{: .label .label-lab } Exploratory Data Analysis":         
 ---
