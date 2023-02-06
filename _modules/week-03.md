@@ -5,7 +5,7 @@
       - date: 2023-01-30
         events:
           "**6**{: .label .label-gray } Application Programming Interface (API)":
-            "**6**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1tpExbUd4rp_D15cOisrnTN1PyKO7VDZz4l4JTUCuq5c/edit?usp=sharing) • video • code: [Using APIs](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-1%2FLec3.1.ipynb)"
+            "**6**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1tpExbUd4rp_D15cOisrnTN1PyKO7VDZz4l4JTUCuq5c/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_j2in05um/288222162) • code: [Using APIs](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-1%2FLec3.1.ipynb)"
           "**Disc 2**{: .label .label-disc } Conditional Filtering, Functions & APIs ([slides](https://docs.google.com/presentation/d/13hwGUMStShL3KDhhx-YDVFWWyesM2OUwWXhNqL5Krzw/edit?usp=sharing)) ([demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fdisc%2Fdisc02%2Fdisc2-demo.ipynb)) ([video](https://kaltura.berkeley.edu/media/ECON+148%2C+DIS+102+%28Spring+2023%29/1_zr7sfi7p/288222162))":
       - date: 2023-02-01
         events:
@@ -15,5 +15,4 @@
         events:
           "**8**{: .label .label-gray } Guest Lecture: Data Sources in Economics (Jim Church)":
             "**8**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1oHP2sLDP1g52ZhET5fuPoEv62HbwJZKrAAaS31lplFE/edit?usp=sharing) • video • code: [WRDS](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-3%2FWRDS+Setup+and+Samples.ipynb)"
-          "**Lab 3**{: .label .label-lab } Exploratory Data Analysis":         
----
+          "**Lab 3**{: .label .label-lab } Wrangling Survey Data **(due Feb. 14)**":
