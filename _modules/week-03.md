@@ -15,5 +15,5 @@
         events:
           "**8**{: .label .label-gray } Guest Lecture: Data Sources in Economics (Jim Church)":
             "**8**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1oHP2sLDP1g52ZhET5fuPoEv62HbwJZKrAAaS31lplFE/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_kbx24hzj/288222162) • code: [WRDS](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec3-3%2FWRDS+Setup+and+Samples.ipynb)"
-          "**Lab 3**{: .label .label-lab } Wrangling Survey Data **(due Feb. 14)**":         
+          "**Lab 3**{: .label .label-lab } [Wrangling Survey Data](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flab%2Flab03%2Flab03.ipynb) **(due Feb. 15)**":         
 ---
