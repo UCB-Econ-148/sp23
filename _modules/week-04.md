@@ -13,6 +13,7 @@
             "**10**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/152PVBFCpWKA3Re1tpWyBzKrgE6MgmtzH-IRuntFu5rI/edit?usp=sharing) • video • code: [Survey Data](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec4-2%2FLec4_2.ipynb)"
       - date: 2023-02-10
         events:
-          "**11**{: .label .label-gray } Guest Lecture":
-          "**Project 1**{: .label .label-proj } Regional GDP":         
+          "**11**{: .label .label-gray } Guest Lecture: Identifying Customer Needs in Grocery (Alan Liang)":
+            "**11**{: .label .label-ghost } [intro slides](https://docs.google.com/presentation/d/1_KzQXpRE5VLAIc9zwxF6a5BJX_IzLTEJWV2_mdFfzbc/edit?usp=sharing) • [slides](https://drive.google.com/file/d/1fDJyaDQ8l5_peJEjVAn4zEeQHT9WMcXO/view?usp=sharing) • video"
+          "**Project 1**{: .label .label-proj } Regional GDP **(due Feb. 21)**":         
 ---
