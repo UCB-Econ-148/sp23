@@ -1,5 +1,5 @@
 ---
-    title: 6. Exploratory Data Analysis
+    title: 6. Sources of Data - SQL
     weekNumber: 6
     days:
       - date: 2023-02-20

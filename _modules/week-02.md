@@ -1,5 +1,5 @@
 ---
-    title: 2. Sources of Data I - Online Datasets and API
+    title: 2. Introduction to Pandas
     weekNumber: 2
     days:
       - date: 2023-01-23

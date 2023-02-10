@@ -1,5 +1,5 @@
 ---
-    title: 4. Wrangling Data - Join and Merge
+    title: 4. Survey Data and Explorative Data Analysis
     weekNumber: 4
     days:
       - date: 2023-02-06

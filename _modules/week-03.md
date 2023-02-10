@@ -1,5 +1,5 @@
 ---
-    title: 3. Wrangling Data - Data Cleaning
+    title: 3. Sources of Data - Online Datasets and API
     weekNumber: 3
     days:
       - date: 2023-01-30
