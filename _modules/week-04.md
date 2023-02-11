@@ -15,5 +15,5 @@
         events:
           "**11**{: .label .label-gray } Guest Lecture: Identifying Customer Needs in Grocery (Alan Liang)":
             "**11**{: .label .label-ghost } [intro slides](https://docs.google.com/presentation/d/1_KzQXpRE5VLAIc9zwxF6a5BJX_IzLTEJWV2_mdFfzbc/edit?usp=sharing) • [slides](https://drive.google.com/file/d/1fDJyaDQ8l5_peJEjVAn4zEeQHT9WMcXO/view?usp=sharing) • video"
-          "**Project 1**{: .label .label-proj } Regional GDP **(due Feb. 21)**":         
+          "**Project 1**{: .label .label-proj } Regional GDP **(due Feb. 28)**":         
 ---
