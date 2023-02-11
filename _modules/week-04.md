@@ -5,12 +5,12 @@
       - date: 2023-02-06
         events:
           "**9**{: .label .label-gray } Survey and RCT Data":
-            "**9**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1WrouKjnDDaEQTiuXLtEToMqzG8Kt4D2fXNiw3OpFLCM/edit?usp=sharing) • video"
+            "**9**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1WrouKjnDDaEQTiuXLtEToMqzG8Kt4D2fXNiw3OpFLCM/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_v7mxpk3x/288222162)"
           "**Disc 3**{: .label .label-disc } Groupby, Plotly, & Survey Design ([slides](https://docs.google.com/presentation/d/1zsvSWzPZiroPg6VNo4pyyvw7HjeZSc3n9cn8DvFFRRw/edit?usp=sharing)) ([video](https://kaltura.berkeley.edu/media/ECON+148%2C+DIS+102+%28Spring+2023%29/1_59qq1gen/288222162)) ([supp. reading](https://www.pnas.org/doi/epdf/10.1073/pnas.1000776108))":
       - date: 2023-02-08
         events:
           "**10**{: .label .label-gray } Hawthorne Effect":
-            "**10**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/152PVBFCpWKA3Re1tpWyBzKrgE6MgmtzH-IRuntFu5rI/edit?usp=sharing) • video • code: [Survey Data](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec4-2%2FLec4_2.ipynb)"
+            "**10**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/152PVBFCpWKA3Re1tpWyBzKrgE6MgmtzH-IRuntFu5rI/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_oja18s0g/288222162) • code: [Survey Data](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2Flec4-2%2FLec4_2.ipynb)"
       - date: 2023-02-10
         events:
           "**11**{: .label .label-gray } Guest Lecture: Identifying Customer Needs in Grocery (Alan Liang)":
