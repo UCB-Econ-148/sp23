@@ -4,7 +4,8 @@
     days:
       - date: 2023-02-13
         events:
-          "**12**{: .label .label-gray } Week 5 Lecture 1":
+          "**12**{: .label .label-gray } Data Cleaning Process":
+            "**12**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1l_0dUgEduqx2N5NcTlteUJDQWLK0lsg1_Q9AueGMNPk/edit?usp=sharing) • video"
           "**Disc 4**{: .label .label-disc } Regex & Data Cleaning Process ([slides](https://docs.google.com/presentation/d/1ywxGq3UI8jal44S--ToxB9EpkTy9AguMkKTJ5QW0DBU/edit?usp=sharing)) ([regex101](https://regex101.com/))":
       - date: 2023-02-15
         events:
