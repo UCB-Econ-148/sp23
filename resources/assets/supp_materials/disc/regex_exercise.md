@@ -1,3 +1,11 @@
+---
+layout: default
+title: Regex Exercises
+nav_exclude: true
+description: Regex exercise
+---
+
+
 # Regex Exercises
 
 ## Exercise 1
