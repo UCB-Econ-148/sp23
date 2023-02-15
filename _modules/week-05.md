@@ -9,7 +9,8 @@
           "**Disc 4**{: .label .label-disc } Regex & Data Cleaning Process ([slides](https://docs.google.com/presentation/d/1ywxGq3UI8jal44S--ToxB9EpkTy9AguMkKTJ5QW0DBU/edit?usp=sharing)) ([regex exercise](https://www.econ148.org/sp23/resources/assets/supp_materials/disc/regex_exercise/)) ([regex101](https://regex101.com/))":
       - date: 2023-02-15
         events:
-          "**13**{: .label .label-gray } Week 5 Lecture 2":
+          "**13**{: .label .label-gray } Strings and Regex":
+            "**13**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Deo4nqS9S0ILshsUbZoVol9YO-x0e2iQIwNn9rDZfLo/edit?usp=sharing) • video"
       - date: 2023-02-17
         events:
           "**14**{: .label .label-gray } Week 5 Lecture 3":

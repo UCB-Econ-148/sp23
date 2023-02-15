@@ -14,6 +14,6 @@
       - date: 2023-02-10
         events:
           "**11**{: .label .label-gray } Guest Lecture: Identifying Customer Needs in Grocery (Alan Liang)":
-            "**11**{: .label .label-ghost } [intro slides](https://docs.google.com/presentation/d/1_KzQXpRE5VLAIc9zwxF6a5BJX_IzLTEJWV2_mdFfzbc/edit?usp=sharing) • [slides](https://drive.google.com/file/d/1fDJyaDQ8l5_peJEjVAn4zEeQHT9WMcXO/view?usp=sharing) • video"
+            "**11**{: .label .label-ghost } [intro slides](https://docs.google.com/presentation/d/1_KzQXpRE5VLAIc9zwxF6a5BJX_IzLTEJWV2_mdFfzbc/edit?usp=sharing) • [slides](https://drive.google.com/file/d/1fDJyaDQ8l5_peJEjVAn4zEeQHT9WMcXO/view?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_q33xi54t/288222162)"
           "**Project 1**{: .label .label-proj } [Regional GDP](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fproj%2Fproj01%2Fproj01.ipynb) **(due Feb. 28)**":         
 ---
