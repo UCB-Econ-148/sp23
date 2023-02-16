@@ -95,23 +95,31 @@ Video: (https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29
 
 
 ## Exercise 7
-**Find the base URL for the following (e.g. docs.google.com)**
+**Find the base URL for the following (e.g. https://docs.google.com)**
 
 ```
-docs.google.com/presentation/d/1WrouKjnDDaEQTiuXLtEToMqzG8Kt4D2fXNiw3OpFLCM/(the following text will not have any slashes in them)
+https://docs.google.com/presentation/d/1WrouKjnDDaEQTiuXLtEToMqzG8Kt4D2fXNiw3OpFLCM
 
-kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_v7mxpk3x/288222162/the following text will not have any slashes in them
+https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_v7mxpk3x/288222162
 ```
 
-[Regex101 Link](https://regex101.com/r/wWN3Nx/1)
+[Regex101 Link](https://regex101.com/r/FeGOpy/1)
 
 
 ## Reference Solution
 <details class="details-example">
-    <summary>Show solution</summary>
+    <summary>Click here to display solution</summary>
     <ul>
-        <li>To be updated</li>
+        <li>Ex1: ex\w*</li>
+        <li>Ex2: \d*</li>
+        <li>Ex3: API key: (.*)\s</li>
+        <li>Ex4: \s(\d{4})\s</li>
+        <li>Ex5: \(.*\)</li>
+        <li>Ex6: (\(.*\))</li>
+        <li>Ex7: https:\/\/.+?\/</li>
     </ul>
 </details>
+
+<br>
 
 
