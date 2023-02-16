@@ -13,6 +13,7 @@
             "**13**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Deo4nqS9S0ILshsUbZoVol9YO-x0e2iQIwNn9rDZfLo/edit?usp=sharing) • video • code: [Cal College Network](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec5-2%2FCalCollegeNetworks_EVD.ipynb)"
       - date: 2023-02-17
         events:
-          "**14**{: .label .label-gray } Week 5 Lecture 3":
+          "**14**{: .label .label-gray } Guest Lecture: UC Investments (Martin Scott and Brad Lyons)":
+            "**14**{: .label .label-ghost } slides • video"
           "**Lab 4**{: .label .label-lab } SQL **(due Feb. 28)**":        
 ---
