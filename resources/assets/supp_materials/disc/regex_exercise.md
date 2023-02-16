@@ -106,3 +106,12 @@ kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_v7mxpk3x/2882
 [Regex101 Link](https://regex101.com/r/wWN3Nx/1)
 
 
+## Reference Solution
+<details class="details-example">
+    <summary>Show solution</summary>
+    <ul>
+        <li>To be updated</li>
+    </ul>
+</details>
+
+
