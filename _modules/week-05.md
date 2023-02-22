@@ -13,7 +13,7 @@
             "**13**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Deo4nqS9S0ILshsUbZoVol9YO-x0e2iQIwNn9rDZfLo/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_aqbhnm2d/288222162) • code: [Cal College Network](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec5-2%2FCalCollegeNetworks_EVD.ipynb)"
       - date: 2023-02-17
         events:
-          "**14**{: .label .label-gray } Guest Lecture: UC Investments (Martin Scott and Brad Lyons)":
-            "**14**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1cql5uM3zUwN6FYojZ_H_SiUQiR2c38JKBofH5bCw9dA/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_sxmram1n/288222162)"
+          "**14**{: .label .label-gray } Guest Lecture: UC Investments Office (Martin Scott and Brad Lyons)":
+            "**14**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1cql5uM3zUwN6FYojZ_H_SiUQiR2c38JKBofH5bCw9dA/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_sxmram1n/288222162) • code: [Demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec5-3%2Flecture_hardcoded.ipynb)"
           "**Lab 4**{: .label .label-lab } [SQL](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flab%2Flab04%2Flab04.ipynb) **(due Feb. 28)**":        
 ---

@@ -9,9 +9,9 @@
       - date: 2023-02-22
         events:
           "**15**{: .label .label-gray } SQL":
-            "**15**{: .label .label-ghost } slides • video • code"
+            "**15**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/18AMI2S4_dB6RW1Yw99tmHjdoyJzwQ9SPUOYHCqhf794/edit?usp=sharing) • video • code: [Basics](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec6-1%2FData100_basicSQL.ipynb), [Soda](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec6-1%2FSQL_Soda_EVD.ipynb)"
       - date: 2023-02-24
         events:
           "**16**{: .label .label-gray } Week 6 Lecture 2":
-          "**Lab 5**{: .label .label-lab } Intro to Visualization":         
+          "**Lab 5**{: .label .label-lab } Intro to Visualization **(due Mar. 7)**":         
 ---
