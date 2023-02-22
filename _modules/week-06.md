@@ -5,7 +5,7 @@
       - date: 2023-02-20
         events:
           "Holiday: President Day":
-          "**Disc 5**{: .label .label-disc } SQL ([slides](https://docs.google.com/presentation/d/1D1BfjNRbeL97p4fC4GxHpTqrMc7bskMPpd-57PoSceM/edit?usp=sharing)) (video)":
+          "**Disc 5**{: .label .label-disc } SQL ([slides](https://docs.google.com/presentation/d/1D1BfjNRbeL97p4fC4GxHpTqrMc7bskMPpd-57PoSceM/edit?usp=sharing)) ([video](https://kaltura.berkeley.edu/media/ECON+148%2C+DIS+102+%28Spring+2023%29/1_19brm5ec/288222162))":
       - date: 2023-02-22
         events:
           "**15**{: .label .label-gray } SQL":
