@@ -13,6 +13,6 @@
       - date: 2023-02-24
         events:
           "**16**{: .label .label-gray } SQL & Scanner Data":
-            "**16**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/13GQt-cUlc4jyRIQRDsCl3h-4_WbapC1kxlP5k8SOKJQ/edit?usp=sharing) • video"
+            "**16**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/13GQt-cUlc4jyRIQRDsCl3h-4_WbapC1kxlP5k8SOKJQ/edit?usp=sharing) • video • code: [Soda II](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec6-2%2FSQL_Soda2.ipynb)"
           "**Lab 5**{: .label .label-lab } Intro to Visualization **(due Mar. 7)**":         
 ---
