@@ -68,7 +68,7 @@ Install Ruby 2.2.0:
 
 Clone this repo:
 
-    git clone https://github.com/DS-100/DS-100.github.io
+    git clone https://github.com/UCB-Econ-148/sp23.git
 
 In the repo directory, run:
 
