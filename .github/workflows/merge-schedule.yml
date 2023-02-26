@@ -9,7 +9,7 @@ on:
       - reopened
   schedule:
     # https://crontab.guru/every-hour
-    - cron: 0 * * * *
+    - cron: 0 18 * * *
 
 jobs:
   merge_schedule:
