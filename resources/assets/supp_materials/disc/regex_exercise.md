@@ -115,7 +115,7 @@ https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_v7mxp
         <li>Ex3: API key: (.*)\s</li>
         <li>Ex4: \s(\d{4})\s</li>
         <li>Ex5: \(.*\)</li>
-        <li>Ex6: (\(.*\))</li>
+        <li>Ex6: \((.*)\)</li>
         <li>Ex7: https:\/\/.+?\/</li>
     </ul>
 </details>
