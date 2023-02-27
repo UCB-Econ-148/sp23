@@ -5,7 +5,7 @@
       - date: 2023-02-27
         events:
           "**17**{: .label .label-gray } Visualization I":
-            "**17**{: .label .label-ghost } slides • video • code"
+            "**17**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1wecf1bA_V8J1gz-lK1EHyBg2a9RokdgTzHUWDHeuEQc/edit?usp=sharing) • video • code: [Seaborn](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec7-1%2FViz-1.ipynb)"
           "**Disc 6**{: .label .label-disc } Plotting ([slides](https://docs.google.com/presentation/d/1BrE6LKKvZEEhR53oMuP3TJeCHBaeAE1P0Pgk86HRdEw/edit?usp=sharing)) (video)":
       - date: 2023-03-01
         events:
