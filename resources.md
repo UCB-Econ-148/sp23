@@ -18,6 +18,14 @@ Official resources for you to refer to:
 - [NumPy documentation](https://numpy.org/doc/stable/)
 - [Pandas documentation](https://pandas.pydata.org/docs/index.html)
 
+
+## Exam Resources
+The following resources can be helpful for you to study for exams.
+- Midterm Study Guide
+- Midterm Reference Sheet
+(Coming Soon!)
+
+
 ## Supplementary Readings
 
 Each of the listed online textbooks/readings will contain some material that is not in scope for our class. They all cover the fundamentals of Python, but in slightly different ways. As a reminder, you're not required to look at any of these; only look if you think they'll help you.
