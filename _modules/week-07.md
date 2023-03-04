@@ -13,7 +13,7 @@
             "**18**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/11sQwpdOQPif7Q5vFOtWhy6n8rfx6owNnXcoWzxmu7rI/edit?usp=sharing) • video • code: [Avocado](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec7-2%2FAvocado_Demand_logs.ipynb), [WaterGuard](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec7-2%2FWGP_GraphPractice.ipynb)"
       - date: 2023-03-03
         events:
-          "**19**{: .label .label-gray } Guest Lecture (Kyla Scanlon)":
-            "**19**{: .label .label-ghost } slides • video"
+          "**19**{: .label .label-gray } Guest Lecture: Why Nothing Makes Sense (Kyla Scanlon)":
+            "**19**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1ZBygifazrd6Eb2kifjYIxcVEWiDcOZ6N/view?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_wxq9b7xj/288222162)"
           "**Lab 6**{: .label .label-lab } Geospatial Visualization **(due Mar. 14)**":         
 ---
