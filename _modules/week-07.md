@@ -14,6 +14,6 @@
       - date: 2023-03-03
         events:
           "**19**{: .label .label-gray } Guest Lecture: Why Nothing Makes Sense (Kyla Scanlon)":
-            "**19**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1ZBygifazrd6Eb2kifjYIxcVEWiDcOZ6N/view?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_wxq9b7xj/288222162)"
+            "**19**{: .label .label-ghost } [intro slides](https://docs.google.com/presentation/d/1Gzi9hMhZqnd0iJiuxfw3k0tnjH3eW101AhdEoD73OZQ/edit?usp=sharing) • [slides](https://drive.google.com/file/d/1ZBygifazrd6Eb2kifjYIxcVEWiDcOZ6N/view?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_wxq9b7xj/288222162)"
           "**Lab 6**{: .label .label-lab } Geospatial Visualization **(due Mar. 14)**":         
 ---
