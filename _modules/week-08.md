@@ -5,7 +5,7 @@
       - date: 2023-03-06
         events:
           "**20**{: .label .label-gray } Visualization III":
-            "**20**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1kuCiNusVVVNb1jP-orH5tivItXFCAZ3Pj4h7Shx0kyw/edit?usp=sharing) • video"
+            "**20**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1kuCiNusVVVNb1jP-orH5tivItXFCAZ3Pj4h7Shx0kyw/edit?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_4mvy0824/288222162)"
           "**Disc 7**{: .label .label-disc } Midterm Review ([slides](https://docs.google.com/presentation/d/1DK0rMV_diPzd3RD61yTfJ996Nzx5nwhAhKJskxKUZq8/edit?usp=sharing)) (video)":
       - date: 2023-03-08
         events:
