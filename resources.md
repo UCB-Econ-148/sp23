@@ -21,9 +21,11 @@ Official resources for you to refer to:
 
 ## Exam Resources
 The following resources can be helpful for you to study for exams.
-- Midterm Study Guide
-- Midterm Reference Sheet
-(Coming Soon!)
+
+### Midterm
+- [Review Slides](https://docs.google.com/presentation/d/1DK0rMV_diPzd3RD61yTfJ996Nzx5nwhAhKJskxKUZq8/edit?usp=sharing)
+- [Reference Sheet](https://www.econ148.org/sp23/resources/assets/midterm/reference-sheet.pdf)
+- [Example Questions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples-sol.pdf))
 
 
 ## Supplementary Readings
