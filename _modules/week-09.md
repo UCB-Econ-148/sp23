@@ -6,7 +6,7 @@
         events:
           "**22**{: .label .label-gray } Interactive Visualization":
             "**22**{: .label .label-ghost } slides • video"
-          "**Disc 8**{: .label .label-disc } Applications to Econometrics ([slides](https://docs.google.com/presentation/d/1RdKUmIhXI3qItf6gohy2gIMvG-HrIvWrCFHYdtmHurU/edit?usp=sharing)) (video)":
+          "**Disc 8**{: .label .label-disc } Applications to Econometrics ([slides](https://docs.google.com/presentation/d/1RdKUmIhXI3qItf6gohy2gIMvG-HrIvWrCFHYdtmHurU/edit?usp=sharing)) (video) (supp. reading: [DiD](https://towardsdatascience.com/a-guide-to-using-the-difference-in-differences-regression-model-87cd2fb3224a), [RDD](https://bookdown.org/mike/data_analysis/regression-discontinuity.html), [Card (1990)](https://davidcard.berkeley.edu/papers/mariel-impact.pdf))":
       - date: 2023-03-15
         events:
           "**23**{: .label .label-gray } Justice 50":
