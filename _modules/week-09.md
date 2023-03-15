@@ -10,7 +10,7 @@
       - date: 2023-03-15
         events:
           "**23**{: .label .label-gray } Justice 40":
-            "**23**{: .label .label-ghost } slides • video • code: [Justice 40](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec9-2%2Fjustice40.ipynb)"
+            "**23**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/13pCrXWxvCunJ3HlGX28RVB9ow78UPvHtijqP4dFT-Wo/edit?usp=sharing) • video • code: [Justice 40](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec9-2%2Fjustice40.ipynb)"
       - date: 2023-03-17
         events:
           "**24**{: .label .label-gray } Guest Lecture: Michael Schwarz":
