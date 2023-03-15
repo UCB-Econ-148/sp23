@@ -14,5 +14,5 @@
       - date: 2023-03-10
         events:
           "**Exam**{: .label .label-exam } Midterm ([logistics](https://edstem.org/us/courses/34369/discussion/2743295))": 
-          "**Project 2**{: .label .label-proj } Mariel Boatlift":
+          "**Project 2**{: .label .label-proj } [Mariel Boatlift](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fproj%2Fproj02%2Fproj02.ipynb) **(due Apr. 4)**":
 ---
