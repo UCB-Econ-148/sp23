@@ -15,6 +15,6 @@
         events:
           "**24**{: .label .label-gray } Guest Lecture: Michael Schwarz":
             "**24**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/134iVu5uTu2eFFGc_YBbVUB_heEx_9U7StfvVO5-t0es/edit?usp=sharing) • video"
-          "**Lab 7**{: .label .label-lab } [Justice 40](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flab%2Flab07%2Flab07.ipynb)":
+          "**Lab 7**{: .label .label-lab } [Justice 40](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flab%2Flab07%2Flab07.ipynb) **(due Apr. 4)**":
                     
 ---
