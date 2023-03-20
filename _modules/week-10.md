@@ -6,6 +6,7 @@
         events:
           "**25**{: .label .label-gray } Reproducibility I":
             "**25**{: .label .label-ghost } slides • video • code"
+            "**Disc 9**{: .label .label-disc } Reproducibility in Code ([slides](https://docs.google.com/presentation/d/12eIuPKYZ8PMysm0pSxoClnh4YOQFRqHO6qVv2SN23Xc/edit?usp=sharing)) (video):
       - date: 2023-03-22
         events:
           "**26**{: .label .label-gray } Reproducibility II":
