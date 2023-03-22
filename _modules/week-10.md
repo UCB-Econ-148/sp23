@@ -10,7 +10,7 @@
       - date: 2023-03-22
         events:
           "**26**{: .label .label-gray } Reproducibility II":
-            "**26**{: .label .label-ghost } slides • video • code"
+            "**26**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/10muixvX_CqtiC-Hx8pbEqqS5OwMfvcTCJc0TLfQQuBM/edit?usp=sharing) • video"
       - date: 2023-03-24
         events:
           "**27**{: .label .label-gray } Guest Lecture":
