@@ -22,10 +22,19 @@ Official resources for you to refer to:
 ## Exam Resources
 The following resources can be helpful for you to study for exams.
 
+| Semester | Midterm | Final |
+| --- | --- | --- |
+| Spring 2023 | [Exam](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/exam/sp23/econ148-mt-sol-v3.pdf)) | |
+
 ### Midterm
 - [Review Slides](https://docs.google.com/presentation/d/1DK0rMV_diPzd3RD61yTfJ996Nzx5nwhAhKJskxKUZq8/edit?usp=sharing)
 - [Reference Sheet](https://www.econ148.org/sp23/resources/assets/midterm/reference-sheet.pdf)
 - [Example Questions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples.pdf) ([Solutions](https://www.econ148.org/sp23/resources/assets/midterm/econ148-mt-examples-sol.pdf))
+
+### Final
+Stay tuned!
+
+
 
 
 ## Supplementary Readings
