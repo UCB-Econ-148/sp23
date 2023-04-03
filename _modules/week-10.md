@@ -14,7 +14,7 @@
       - date: 2023-03-24
         events:
           "**27**{: .label .label-gray } Guest Lecture: Modeling Data in Quantitative Trading (Rodrigo Palmaka)":
-            "**27**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1ybHtlDvqw2A2GDV93AZl_s-yYuownFes/view?usp=sharing) • video • code: [Illiquid Stock Price](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec10-3%2FECON148_demo.ipynb)"
+            "**27**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1ybHtlDvqw2A2GDV93AZl_s-yYuownFes/view?usp=sharing) • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_xidn4ucy/288222162) • code: [Illiquid Stock Price](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec10-3%2FECON148_demo.ipynb)"
           "**Lab 8**{: .label .label-lab } Survival Analysis":
           "**Survey 2**{: .label .label-survey } [Mid-Semester Survey](https://forms.gle/BVf7xv6aumLiaRm29) **(due Apr. 7)**":         
 ---
