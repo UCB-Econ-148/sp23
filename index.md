@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: >-
     Data Science for Economists, UC Berkeley, Spring 2023
+currWeekNumber: 12
 ---
 
 # Data Science for Economists
@@ -35,6 +36,7 @@ UC Berkeley, Spring 2023
 + All announcements are on [Ed](https://edstem.org/us/courses/34369/discussion/). Make sure you are enrolled and active there.
 + The [Syllabus](./syllabus) contains a detailed explanation of how each course component will work this semester
 + If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. 
+
 <b>Jump to current week: [here](#week-{{page.currWeekNumber}}){:target="_self"}. </b>
 
 <br>
