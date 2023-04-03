@@ -37,11 +37,9 @@ UC Berkeley, Spring 2023
 + The [Syllabus](./syllabus) contains a detailed explanation of how each course component will work this semester
 + If you plan to add late, make sure you contact the staff first to see if you can make up the missed assignments before officially adding the class. 
 
-<br>
-
 <a name="schedule"></a>
 ## Schedule
-<b>Jump to [current week](#week-{{page.currWeekNumber}}){:target="_self"} </b>
+<b>🚀 [Jump to current week](#week-{{page.currWeekNumber}}){:target="_self"} </b>
 {% for module in site.modules %}
 <a name="week-{{module.weekNumber}}"></a>
 {{ module }}
