@@ -9,9 +9,11 @@
           "**Disc 10**{: .label .label-disc } Bias-Variance Tradeoff & Tuning ([slides](https://docs.google.com/presentation/d/1CKiCIANv6mXyhOzbApMOK46ALMU47VE93ICtF8dklNw/edit?usp=sharing)) (video) ([demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fdisc%2Fdisc10%2Fdisc10-demo.ipynb))":
       - date: 2023-04-05
         events:
-          "**29**{: .label .label-gray } Week 12 Lecture 2":
+          "**29**{: .label .label-gray } Survival Analysis":
+            "**29**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Mx3lQNs1b1fBYj1nuNPwh20XLjgGDF8sWtxw5YkNPwA/edit?usp=sharing) • video • code: [Regimes](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec11-2%2FLifelines_Regimes.ipynb), [Employee Turnover](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec11-2%2FTermination_Lifelines.ipynb)"
       - date: 2023-04-07
         events:
-          "**30**{: .label .label-gray } Week 12 Lecture 3":
+          "**30**{: .label .label-gray } Guest Lecture: Emi Nakamura":
+            "**30**{: .label .label-ghost } slides • video"
           "**Lab 9**{: .label .label-lab } Time Series":          
 ---
