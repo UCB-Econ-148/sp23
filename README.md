@@ -1,4 +1,12 @@
 ## ECON 148 Spring 2023 website
+<div>
+    <img alt="deployment_status" src="https://img.shields.io/github/deployments/UCB-Econ-148/sp23/github-pages?label=deployment%20status">
+    <img alt="website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fwww.econ148.org%2Fsp23%2F">
+    <img alt="last_commit" src="https://img.shields.io/github/last-commit/UCB-Econ-148/sp23">
+</div>
+
+
+
 
 ### Getting Started for Staff
 This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website in general, though it was for a different class.
