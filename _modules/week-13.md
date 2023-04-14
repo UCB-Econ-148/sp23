@@ -14,5 +14,5 @@
       - date: 2023-04-14
         events:
           "**33**{: .label .label-gray } Guest Lecture":
-          "**Project 3**{: .label .label-proj } Final Project":          
+          "**Project 3**{: .label .label-proj } [Final Project](resources/final_project/specs)":          
 ---
