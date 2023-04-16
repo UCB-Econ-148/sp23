@@ -37,6 +37,7 @@ The template notebook is the template for the final project. Read the project te
 Here is the list of deliverables and the grading rubrics. See the project template for more details. 
 
 ### Deliverables
+
 | Deliverable | Points |
 | ----------- | ----------- |
 | Abstract | 5%  | 
@@ -54,6 +55,7 @@ Here is the list of deliverables and the grading rubrics. See the project templa
 
 ### Grading Rubrics
 For each deliverable, we will award points according to the following percentage scale:
+
 | Grade | Description |
 | ----------- | ----------- |
 | Excellent (above 90%) | Work that is free of all but the most minor errors and demonstrates creativity and/or a very deep understanding of what you are doing. | 
