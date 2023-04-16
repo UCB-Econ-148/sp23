@@ -68,6 +68,19 @@ In order to make the project consistent across teams, we are limiting the projec
 
 Browse and choose one of the datasets from Harvard Professor Raj Chetty's [Equality of Opportunity Project](http://www.equality-of-opportunity.org/data/). You will find them neatly presented (and mostly cleaned) together with the title of the corresponding research paper. 
 
+| Paper | Link |
+| ----------- | ----------- |
+| Race and Economic Opportunity in the United States: An Intergenerational Perspective | [summary](https://opportunityinsights.org/paper/race/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/04/race_paper.pdf) | 
+| Who Becomes an Inventor in America? The Importance of Exposure to Innovation | [summary](https://opportunityinsights.org/paper/losteinsteins/), [PDF](https://opportunityinsights.org/wp-content/uploads/2019/01/patents_paper.pdf) |
+| Mobility Report Cards: The Role of Colleges in Intergenerational Mobility | [summary](https://opportunityinsights.org/paper/mobilityreportcards/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/coll_mrc_paper.pdf) |
+| The Fading American Dream: Trends in Absolute Income Mobility Since 1940 | [summary](https://opportunityinsights.org/paper/the-fading-american-dream/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/abs_mobility_paper.pdf) | 
+| The Effects of Neighborhoods on Intergenerational Mobility | [summary](https://opportunityinsights.org/paper/neighborhoodsi/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/movers_paper1.pdf) | 
+| Childhood Environment and Gender Gaps in Adulthood | [summary](https://opportunityinsights.org/paper/gendergaps/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/gender_paper.pdf) |
+| The Association Between Income and Life Expectancy in the United States, 2001-2014 | [summary](https://opportunityinsights.org/paper/lifeexpectancy/), [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4866586/pdf/nihms783419.pdf) |
+| Measuring the Impacts of Teachers I and II: Evaluating Bias in Teacher Value-Added Estimates and Teacher Value-Added and Student Outcomes in Adulthood | I: [summary](https://opportunityinsights.org/paper/teachersi/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/teachers1.pdf); II: [summary](https://opportunityinsights.org/paper/teachersii/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/teachers2.pdf) |
+| Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility | [summary](https://opportunityinsights.org/paper/recentintergenerationalmobility/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/04/mobility_trends.pdf) | 
+| Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States | [summary](https://opportunityinsights.org/paper/land-of-opportunity/), [PDF](https://opportunityinsights.org/wp-content/uploads/2018/03/mobility_geo.pdf) | 
+
 ---
 ## Submission Checklists
 
