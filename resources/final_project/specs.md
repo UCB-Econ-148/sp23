@@ -41,10 +41,10 @@ Here is the list of deliverables and the grading rubrics. See the project templa
 | Deliverable | Points |
 | ----------- | ----------- |
 | Abstract | 5%  | 
-| Project background | 5% |
-| Project objective | 5% |
-| Data description | 5% |
-| Data cleaning | 5% |
+| Project Background | 5% |
+| Project Objective | 5% |
+| Data Description | 5% |
+| Data Cleaning | 5% |
 | EDA | 20% |
 | Forecasting and Prediction Modeling | 20% |
 | Interpretation and Conclusions | 20% |
