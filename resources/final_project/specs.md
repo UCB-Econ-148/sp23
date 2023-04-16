@@ -43,8 +43,6 @@ Here is the list of deliverables and the grading rubrics. See the project templa
 | Abstract | 5%  | 
 | Project background | 5% |
 | Project objective | 5% |
-| Project background | 5% | 
-| Project background | 5% |
 | Data description | 5% |
 | Data cleaning | 5% |
 | EDA | 20% |
