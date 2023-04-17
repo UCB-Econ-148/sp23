@@ -17,8 +17,8 @@ description: Final group project instructions, specifications, and rubrics.
 **More details about the project soon! Stay tuned!**  
 
 Access the template ipynb here:  
-<i class="fa fa-external-link"></i> View on Datahub  
-<i class="fa fa-download"></i> Download  
+[Download](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn }  [View on Datahub](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn }  
+(Links are not active yet!)
 
 ---
 ## Introduction
