@@ -14,13 +14,16 @@ description: Group project instructions, specifications, and rubrics.
 1. TOC
 {:toc}
 
-**More details about the project soon! Stay tuned!**  
 
-#### Access the template ipynb here:  
+**Access the template ipynb here:**  
+
 [Download](https://www.econ148.org/sp23/resources/group_project/specs/){: .btn .btn-blue }  [View in Datahub](https://www.econ148.org/sp23/resources/group_project/specs/){: .btn }  [View in Colab](https://www.econ148.org/sp23/resources/group_project/specs/){: .btn }  
 (Links are not active yet!)
 
 **Group assignments are released [here](https://docs.google.com/spreadsheets/d/1yt70gxBrpmd4xM0fyGx71kwTrr-S6-1sST6xedNyV-k/edit?usp=sharing).**   
+
+{: .note }
+This project page is still under construction and may be subject to change.
 
 ---
 ## Introduction
