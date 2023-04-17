@@ -1,5 +1,5 @@
 ---
-    title: 14. Experimental Designs and Machine Leaning
+    title: 14. Experimental Designs and Machine Learning
     weekNumber: 14
     days:
       - date: 2023-04-17
