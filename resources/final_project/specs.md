@@ -15,7 +15,10 @@ description: Final group project instructions, specifications, and rubrics.
 {:toc}
 
 **More details about the project soon! Stay tuned!**  
-Access the template ipynb here. 
+
+Access the template ipynb here:  
+<i class="fa fa-external-link"></i> View on Datahub  
+<i class="fa fa-download"></i> Download  
 
 ---
 ## Introduction
@@ -84,14 +87,18 @@ Browse and choose one of the datasets from Harvard Professor Raj Chetty's [Equal
 ---
 ## Submission Checklists
 
+### Project
 * A Jupyter Notebook
 * A PDF file of the Jupyter Notebook
 * Raw datasets that you downloaded and used
 * Immediate datasets (cleaned datasets, merged datasets, etc.)
 * Figures and Plots
 
+### Peer Review and Assessment
+* A feedback on another group's project
+* Peer review form for groupmates' contributions
+
 ---
 ## Additional Resources
-
-
+How to Import Files in Colab: [External data: Local Files, Drive, Sheets, and Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
 
