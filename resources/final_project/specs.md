@@ -16,7 +16,7 @@ description: Final group project instructions, specifications, and rubrics.
 
 **More details about the project soon! Stay tuned!**  
 
-Access the template ipynb here:  
+Access the template ipynb here:
 [Download](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn }  [View on Datahub](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn }  
 (Links are not active yet!)
 
@@ -49,7 +49,7 @@ Here is the list of deliverables and the grading rubrics. See the project templa
 | Data Description | 5% |
 | Data Cleaning | 5% |
 | EDA | 20% |
-| Forecasting and Prediction Modeling | 20% |
+| Modeling | 20% |
 | Interpretation and Conclusions | 20% |
 | Post-Analysis Reproducibility | 10% |
 | Clarity, Style and Presentation | 5% |
