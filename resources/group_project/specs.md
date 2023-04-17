@@ -17,7 +17,7 @@ description: Group project instructions, specifications, and rubrics.
 
 **Access the template ipynb here:**  
 
-[Download](https://www.econ148.org/sp23/resources/group_project/project_template.ipynb){: .btn .btn-blue }  [View in Datahub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fproj){: .btn }  [View in Colab](https://drive.google.com/file/d/1meqwXGTfs0iQt7NYxpapZrOd6Wbfaub-/view?usp=sharing){: .btn }  
+[Download](https://www.econ148.org/sp23/resources/group_project/project_template.ipynb){: .btn .btn-blue }  [View in Datahub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fproj%2Fproj03%2Fproject_template.ipynb){: .btn }  [View in Colab](https://drive.google.com/file/d/1meqwXGTfs0iQt7NYxpapZrOd6Wbfaub-/view?usp=sharing){: .btn }  
 
 **Group assignments are released [here](https://docs.google.com/spreadsheets/d/1yt70gxBrpmd4xM0fyGx71kwTrr-S6-1sST6xedNyV-k/edit?usp=sharing).**   
 
@@ -35,7 +35,7 @@ Through this project, you will have the chance to work with this rich dataset an
 
 ---
 ## Timeline
-The project is due on May. 1st. 
+The project is due on **May. 1st**. 
 
 ---
 ## Deliverables and Rubrics
