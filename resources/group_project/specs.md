@@ -36,7 +36,7 @@ Through this project, you will have the chance to work with this rich dataset an
 
 ---
 ## Timeline
-The project is due on TBD, and the peer review (for reproducibility) is due on TBD. 
+The project is due on Apr. 28th. 
 
 ---
 ## Deliverables and Rubrics
