@@ -15,5 +15,5 @@
         events:
           "**33**{: .label .label-gray } Guest Lecture: Shashank Dalmia":
             "**33**{: .label .label-ghost } [intro slides](https://docs.google.com/presentation/d/18iSfWvGgXdKZZU6r7k03tsn7bTcWrItIDO83dPKDy2k/edit?usp=sharing) • slides • video • code: [Forecasting with sklearn](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec12-3%2FLec12-3_sklearn_time_series.ipynb)"
-          "**Project 3**{: .label .label-proj } [Final Project](resources/final_project/specs)":          
+          "**Project 3**{: .label .label-proj } [Group Project](resources/group_project/specs)":          
 ---

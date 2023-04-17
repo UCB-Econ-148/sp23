@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Final Project
+title: Group Project
 nav_order: 6
-description: Final group project instructions, specifications, and rubrics. 
+description: Group project instructions, specifications, and rubrics. 
 ---
 
-# Final Project
+# Group Project
 {:.no_toc}
 
 ## Table of contents
@@ -16,10 +16,11 @@ description: Final group project instructions, specifications, and rubrics.
 
 **More details about the project soon! Stay tuned!**  
 
-Access the template ipynb here:  
-
-[Download](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn .btn-blue }  [View on Datahub](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn }  [View on Colab](https://www.econ148.org/sp23/resources/final_project/specs/){: .btn }  
+#### Access the template ipynb here:  
+[Download](https://www.econ148.org/sp23/resources/group_project/specs/){: .btn .btn-blue }  [View in Datahub](https://www.econ148.org/sp23/resources/group_project/specs/){: .btn }  [View in Colab](https://www.econ148.org/sp23/resources/group_project/specs/){: .btn }  
 (Links are not active yet!)
+
+**Group assignments are released [here](https://docs.google.com/spreadsheets/d/1yt70gxBrpmd4xM0fyGx71kwTrr-S6-1sST6xedNyV-k/edit?usp=sharing).**   
 
 ---
 ## Introduction
@@ -32,11 +33,11 @@ Through this project, you will have the chance to work with this rich dataset an
 
 ---
 ## Timeline
-TBD
+The project is due on TBD, and the peer review (for reproducibility) is due on TBD. 
 
 ---
 ## Deliverables and Rubrics
-The template notebook is the template for the final project. Read the project template carefully as it contains all the instructions for this project--each markdown cell provides instructions on what to do in order to complete a successful project. 
+The template notebook is the template for the group project. Read the project template carefully as it contains all the instructions for this project--each markdown cell provides instructions on what to do in order to complete a successful project. 
 
 Here is the list of deliverables and the grading rubrics. See the project template for more details. 
 
@@ -96,8 +97,8 @@ Browse and choose one of the datasets from Harvard Professor Raj Chetty's [Equal
 * Figures and Plots
 
 ### Peer Review and Assessment
-* A feedback on another group's project
-* Peer review form for groupmates' contributions
+* Peer review (for reproducibility) on another group's project
+* Peer review for groupmates' contributions
 
 ---
 ## Additional Resources
