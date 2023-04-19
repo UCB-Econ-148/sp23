@@ -12,7 +12,6 @@
             "**35**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1bM9QCba5M-O-rMz1uQwzgcsm_54x_KbQs1rIdlPKB_o/edit?usp=sharing) • video • code: [Cal College Network](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec13-2%2FCalCollegeNetworks_EVD.ipynb), [Penguins II](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec13-2%2FLec13.2-Penguins.ipynb), [Compare Classifiers](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Flec%2FLec13-2%2FPenguin_compare_classifiers.ipynb)"
       - date: 2023-04-21
         events:
-          "**36**{: .label .label-gray } Week 14 Lecture 3":
-            "**36**{: .label .label-ghost } slides • video • code"
-          "**Lab 10**{: .label .label-lab } Environment":        
+          "**36**{: .label .label-gray } Guest Lecture: Caleb Kruse":
+            "**36**{: .label .label-ghost } slides • video • code"        
 ---
