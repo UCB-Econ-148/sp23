@@ -1,11 +1,11 @@
 ---
-    title: 15. Review and Conclusion
+    title: 15. Economics and ML and Beyond
     weekNumber: 15
     days:
       - date: 2023-04-24
         events:
-          "**37**{: .label .label-gray } Week 15 Lecture 1":
-            "**37**{: .label .label-ghost } slides • video • code"
+          "**37**{: .label .label-gray } The Future of ML and Economics":
+            "**37**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Ru8CJQxYhPZdmbjtYHC8Z1JhezHf6fqT3UdVO0B-TkI/edit?usp=sharing) • video"
           "**Disc 13**{: .label .label-disc } Project Workshop (video) ([demo](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fsp23-student&branch=main&urlpath=lab%2Ftree%2Fsp23-student%2Fdisc%2Fdisc13%2Fdisc13-demo.ipynb))":
       - date: 2023-04-26
         events:
