@@ -22,7 +22,7 @@ description: Group project instructions, specifications, and rubrics.
 **Group assignments are released [here](https://docs.google.com/spreadsheets/d/1yt70gxBrpmd4xM0fyGx71kwTrr-S6-1sST6xedNyV-k/edit?usp=sharing).**   
 
 {: .note }
-This project page is still under construction and may be subject to change.
+See clarifications and submission instructions on [Ed](https://edstem.org/us/courses/34369/discussion/3018671). 
 
 ---
 ## Introduction
@@ -94,9 +94,8 @@ Browse and choose one of the datasets from Harvard Professor Raj Chetty's [Equal
 ### Project
 * A Jupyter Notebook
 * A PDF file of the Jupyter Notebook
-* Raw datasets that you downloaded and used
-* Immediate datasets (cleaned datasets, merged datasets, etc.)
-* Figures and Plots
+* Include a link to all datasets that you downloaded and used in the notebook
+* Figures and Plots (if not already included in the notebook)
 
 ### Peer Review and Assessment
 * Peer review (for reproducibility) on another group's project
