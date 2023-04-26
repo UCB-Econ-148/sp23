@@ -13,5 +13,5 @@
       - date: 2023-04-21
         events:
           "**36**{: .label .label-gray } Guest Lecture: Caleb Kruse":
-            "**36**{: .label .label-ghost } slides • video • code"        
+            "**36**{: .label .label-ghost } slides • [video](https://kaltura.berkeley.edu/media/ECON+148%2C+LEC+001+%28Spring+2023%29/1_y5aw8pvi/288222162)"        
 ---
