@@ -14,6 +14,6 @@
       - date: 2023-04-28
         events:
           "**39**{: .label .label-gray } Guest Lecture: Melissa Dell":
-            "**39**{: .label .label-ghost } slides • video"
+            "**39**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1baWDivdJrtHhf7GSfPLc7mg8mxeU2ROY/view?usp=sharing) • video"
                   
 ---
